@@ -1,0 +1,461 @@
+[
+  {
+    "id": "marrakech",
+    "name": "Marrakech",
+    "region": "Marrakech-Safi",
+    "images": [
+      "../images/medina-of-marrakech.jpg",
+      "../images/caption (1).jpg",
+      "../images/caption.jpg"
+    ],
+    "description": "Surnommée la « Ville Rouge » pour ses remparts ocre, Marrakech est l'une des quatre villes impériales du Maroc. Fondée en 1062 par les Almoravides, elle fut longtemps la capitale du royaume. La médina, classée au patrimoine mondial de l'UNESCO, abrite la célèbre place Jemaa el-Fna, les jardins Majorelle, le palais de la Bahia et la Koutoubia. Entre souks parfumés, riads cachés et montagnes de l'Atlas en toile de fond, Marrakech est un enchantement permanent.",
+    "about": {
+      "localisation": "Piémont du Haut Atlas, centre du Maroc",
+      "ambiance": "Animée, colorée, mystique et festive",
+      "importanceHistorique": "Ancienne capitale almoravide et almohade, l'une des quatre villes impériales",
+      "ceQuiLaRendSpeciale": "La place Jemaa el-Fna, ses souks labyrinthiques, ses riads somptueux et la proximité du Haut Atlas",
+      "tags": ["Ville impériale", "Patrimoine UNESCO", "Souks", "Riads", "Atlas"]
+    },
+    "culture": {
+      "cuisineLocale": "À Marrakech, la cuisine raconte l'histoire du Maroc. Le tajine d'agneau aux pruneaux mijote lentement, mariant la viande tendre avec la douceur des fruits secs — une symphonie de saveurs moyen-orientales. La pastilla au pigeon, ce mille-feuille sucré-salé enrobé de pâte phyllo, est l'emblème de la cuisine raffinée des riads. Le couscous royal, avec ses 7 légumes et ses merguez dorées, est un dimanche en famille. La harira, soupe riche à base de tomate et lentille, brise le jeûne du Ramadan. Et les cornes de gazelle, ces pâtisseries fourrées aux amandes, scellent chaque repas avec une touche sucrée.",
+      "traditions": "La culture de Marrakech pulse au rythme des traditions ancestrales. Les femmes se parent de henné quelques jours avant chaque fête — les mains se couvrent de motifs complexes qui racontent une histoire sans paroles. Les mariages sont fastueux et durent 3 jours, mêlant musique, danse et célébrations sensuelles dans les riads. Les moussems, ces fêtes religieuses marquant les anniversaires de saints locaux, attirent des milliers de pèlerins. Et chaque soir sur la place Jemaa el-Fna, les raconteurs (hajja) captivent la foule avec des histoires de génies et de héros, tradition orale vieille de 900 ans.",
+      "langueDialecte": "Darija marocain avec forte influence amazighe (chleuh)",
+      "musique": "La musique à Marrakech est l'âme de ses souks. Les musiciens gnaoua, héritiers des traditions des esclaves noirs marocains, jouent leur sentier-guitare (gimbri) créant une méditation hypnotique. Les orchestres de la place Jemaa el-Fna fusionnent musiques berbères, chaabi populaire et instruments traditionnels créant une symphonie urbaine unique.",
+      "artisanat": "Les artisans de Marrakech perpétuent des savoir-faire millénaires. Dans les souks, les maroquiniers façonnent le cuir à la main — babouches dorées, sacs et portefeuilles teints dans des bains naturels. Le zellige, cet assemblage minutieux de faïences colorées, revêt chaque palais d'arabesques infinies. La poterie rouge ocre du Maroc est tournée sur des roues antiques. Les tapis berbères tissés à la main racontent l'histoire de familles amazighes, avec leurs codes couleur et motifs. Les lanternes en cuivre ciselé, quant à elles, projettent des ombres dansantes dans chaque riad.",
+      "styleDeVie": "Marrakech pulse avec une énergie féroce après le coucher du soleil. Les Marakchis se rassemblent sur les terrasses de café pour déguster un café noir et des gâteaux aux amandes, en observant la Koutoubia s'illuminer. Les rooftops des riads deviennent des salons à ciel ouvert, où on dîne les pieds nus sur des coussins moelleux. Avant le repos, le hammam traditionnel purifie le corps et l'esprit — une étuve humide où les femmes se confient, les secrets restant entre les murs couverts de vapeur."
+    },
+    "monuments": ["Mosquée Koutoubia", "Jardin Majorelle", "Palais de la Bahia", "Tombeaux Saadiens"],
+    "evenements": ["Festival des musiques du monde", "Marrakech du rire", "FIFM"],
+    "placesPopulaires": ["Place Jemaa el-Fna", "Souks de la Médina", "Jardin Majorelle", "Mellah"],
+    "infosPratiques": {
+      "meillerePeriode": "Mars – Mai et Septembre – Novembre",
+      "periodeAEviter": "Juillet – Août (chaleur intense, jusqu'à 42°C)",
+      "temperatureMoyenne": "22 – 35°C en journée",
+      "budgetMoyen": {
+        "hotelNuit": "400 – 1200 MAD",
+        "repasRestaurant": "80 – 250 MAD",
+        "transportJour": "30 – 80 MAD",
+        "budgetJour": "600 – 2000 MAD"
+      },
+      "transport": {
+        "depuisCasablanca": "3h (train) ou 2h30 (autoroute)",
+        "depuisAgadir": "2h30 (route)",
+        "depuisFes": "5h (route)",
+        "aeroport": "Aéroport Marrakech-Menara (RAK)"
+      }
+    }
+  },
+  {
+    "id": "fes",
+    "name": "Fès",
+    "region": "Fès-Meknès",
+    "images": [
+      "../images/photo0jpg.jpg",
+      "../images/F3.webp",
+      "../images/kairaouine-mosque-mosque.jpg"
+    ],
+    "description": "Capitale spirituelle et culturelle du Maroc, Fès a été fondée en 789 par Idriss Ier. Sa médina Fès el-Bali est la plus grande zone piétonne du monde et un labyrinthe de 9 400 ruelles. La ville abrite l'université Al Quaraouiyine, fondée en 859, considérée comme la plus ancienne université du monde encore en activité. Les tanneries Chouara, les médersas mérinides et l'artisanat du zellige font de Fès un trésor vivant.",
+    "about": {
+      "localisation": "Nord-est du Maroc, vallée du Saïss",
+      "ambiance": "Mystique, studieuse, authentique et labyrinthique",
+      "importanceHistorique": "Première capitale idrisside, berceau de la civilisation islamique au Maroc et siège de la plus ancienne université du monde",
+      "ceQuiLaRendSpeciale": "La médina médiévale intacte, les tanneries Chouara, les médersas ornées et son aura spirituelle unique",
+      "tags": ["Capitale spirituelle", "Patrimoine UNESCO", "Médina médiévale", "Artisanat", "Université Al Quaraouiyine"]
+    },
+    "culture": {
+      "cuisineLocale": "La cuisine de Fès est une méditation culinaire. La pastilla au pigeon, ce chef-d'œuvre sucré-salé enrobé de papier de riz, apprend la patience aux convives. Le méchoui, agneau rôti entier sur braises, est réservé aux grandes occasions. Le trid, plat de pâte déchiquetée sur sauce, réchauffe les hivers fassi. Les briouates fourrées à l'amande, au fromage ou au pigeon figurent à chaque table fassie. Chaque bouchée parle de tradition, de familles qui transmettent les recettes de mère en fille depuis le XIIIe siècle.",
+      "traditions": "Fès est le cœur spirituel du Maroc. Les zaouïas, ces sanctuaires soufis nichés dans les ruelles, vibrent d'une musique mystique. Les récitations coraniques résonnent à chaque coin, formant la conscience collective. Les fêtes du Mawlid (anniversaire du Prophète) rassemblent des milliers de pèlerins. Les confréries religieuses perpétuent des rituels de purification et de communion, créant un lien intemporel avec le divin.",
+      "langueDialecte": "Darija fassi, considéré comme le dialecte le plus élaboré du Maroc",
+      "musique": "La musique andalouse-arabe fassie évoque les palais d'Al-Andalus, nostalgie d'une splendeur perdue. Les orchestres soufis entrent en transe, leurs instruments créant des labyrinthes sonores hypnotiques. Les chants des confréries montent en crescendo dans les zaouïas, fusion de voix humaines et d'instruments anciens.",
+      "artisanat": "À Fès, l'artisanat ne meurt jamais. Le zellige, cet assemblage geometrique de mille petites faïences colorées, revêt les palais et mosquées. Les artisans brodent le cuir avec une minutie d'orfèvres, créant des selles et des babouches irremplaçables. La céramique bleue de Fès sort de fours chauffés à 1200°C. Les marqueteurs crèent des motifs incrustés d'ivoire et d'os. Les ciseleurs de cuivre frappent chaque détail à la main, créant des œuvres qui brillent comme des étoiles.",
+      "styleDeVie": "La vie à Fès est réglée par l'appel à la prière. Le matin, les cafés maures s'emplissent d'hommes discutant politique et religion en sirotant du thé à la menthe. Les étudiants traversent la médina en direction de la Quaraouiyine, université millénaire. L'après-midi, les ateliers d'artisans s'illuminent du travail patient des mains. Le soir, les familles se rassemblent pour des dîners par terre, et les plus sages racontent l'histoire de leurs ancêtres."
+    },
+    "monuments": ["Médersa Bou Inania", "Université Al Quaraouiyine", "Bab Boujloud", "Dar Batha"],
+    "evenements": ["Festival des musiques sacrées", "Festival de la culture soufie"],
+    "placesPopulaires": ["Tanneries Chouara", "Médina Fès el-Bali", "Souk des teinturiers", "Mellah"],
+    "infosPratiques": {
+      "meillerePeriode": "Avril – Juin et Septembre – Octobre",
+      "periodeAEviter": "Juillet – Août (très chaud et humide)",
+      "temperatureMoyenne": "18 – 30°C selon la saison",
+      "budgetMoyen": {
+        "hotelNuit": "300 – 900 MAD",
+        "repasRestaurant": "60 – 200 MAD",
+        "transportJour": "20 – 50 MAD",
+        "budgetJour": "500 – 1500 MAD"
+      },
+      "transport": {
+        "depuisCasablanca": "3h30 (train) ou 3h (autoroute)",
+        "depuisRabat": "2h30 (train)",
+        "depuisMarrakech": "5h (route)",
+        "aeroport": "Aéroport Fès-Saïss (FEZ)"
+      }
+    }
+  },
+  {
+    "id": "chefchaouen",
+    "name": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "images": [
+      "../images/screen.png",
+      "../images/Chefchaouen1.jpg",
+      "../images/CH.jpg"
+    ],
+    "description": "Nichée dans les montagnes du Rif, Chefchaouen est connue comme la « Perle Bleue » du Maroc. Fondée en 1471, la ville est célèbre pour ses ruelles peintes en bleu, une tradition attribuée aux réfugiés juifs au XVe siècle. Entourée de nature, elle offre des randonnées vers la cascade d'Akchour et le pont de Dieu. L'atmosphère paisible et les panoramas montagneux en font une étape incontournable.",
+    "about": {
+      "localisation": "Montagnes du Rif, nord du Maroc",
+      "ambiance": "Paisible, bohème, colorée et contemplative",
+      "importanceHistorique": "Fondée en 1471 comme forteresse, refuge des Morisques et Juifs expulsés d'Espagne au XVe siècle",
+      "ceQuiLaRendSpeciale": "Ses ruelles entièrement peintes en bleu, son cadre montagnard et son atmosphère hors du temps",
+      "tags": ["Perle Bleue", "Montagnes du Rif", "Randonnée", "Photographie", "Patrimoine andalou"]
+    },
+    "culture": {
+      "cuisineLocale": "La cuisine de Chefchaouen naît de la montagne. Le fromage de chèvre frais, encore tiède de la traite du matin, s'accompagne de miel de montagne doré qui coule comme du sirop. Le couscous aux légumes du Rif, préparé avec les produits du terroir (carottes, champignons, abricots secs), se déguste en famille autour d'un plat unique. La harira rifaine, plus légère que celle du sud, réchauffe les soirées fraîches. Le poisson frais du nord, grillé à la sauce chermoula, arrive quotidiennement du marché. Chaque repas raconte la générosité de la terre et des paysans rifains.",
+      "traditions": "Chefchaouen est un musée vivant des traditions berbères. Les femmes tissent la laine sur des métiers ancestraux, créant des motifs qui parlent de leurs vies, de leurs joies et peines. La poterie berbère se façonne à la main, sans tour de potier, perpétuant une technique vieille de 2000 ans. L'influence andalouse persiste dans l'architecture aux couleurs bleues et blanches. Chaque maison raconte l'histoire des réfugiés du XIVe siècle qui ont fui l'Inquisition espagnole et ont imprégné la ville de leur sagesse.",
+      "langueDialecte": "Tarifit (berbère du Rif) et darija du nord",
+      "musique": "La musique rifaine surgit spontanément des souks. La flûte en roseau gémit des mélodies éternelles, percussions berbères créent le rythme du cœur de la montagne. Les chants de montagne racontent des histoires d'amour, de séparation et de retour, portés par des voix fermes de femmes et d'hommes.",
+      "artisanat": "Les tisserands de Chefchaouen créent des couvertures en laine colorées, chaque fil tissé est une prière. Le cuir teinté dans des bains naturels prend des teintes de feu. La céramique rifaine, façonnée sans tour, porte les empreintes des mains des artisans — chaque pièce est unique, portant la signature de son créateur.",
+      "styleDeVie": "Chefchaouen vit au rythme lent des montagnes. Les matins brumeux, on marche dans les ruelles bleues comme dans un rêve. Les cafés nichés dans les recoins offrent une vue sur l'infini des Rif. Les soirs, les familles s'assoient sous les étoiles, discutant de la récolte, des enfants, de la santé. La vie ici n'est pas pressée — elle s'écoule comme le ruisseau d'Akchour."
+    },
+    "monuments": ["Kasbah", "Grande Mosquée", "Ras el-Maa"],
+    "evenements": ["Festival Alegría", "Festival international de photographie"],
+    "placesPopulaires": ["Médina bleue", "Cascade d'Akchour", "Pont de Dieu", "Place Outa el Hammam"],
+    "infosPratiques": {
+      "meillerePeriode": "Avril – Juin et Septembre – Novembre",
+      "periodeAEviter": "Décembre – Février (froid et pluie en montagne)",
+      "temperatureMoyenne": "15 – 28°C selon la saison",
+      "budgetMoyen": {
+        "hotelNuit": "200 – 600 MAD",
+        "repasRestaurant": "50 – 150 MAD",
+        "transportJour": "20 – 40 MAD",
+        "budgetJour": "350 – 1000 MAD"
+      },
+      "transport": {
+        "depuisTanger": "2h (route)",
+        "depuisFes": "3h (route)",
+        "depuisTetouan": "1h15 (route)",
+        "aeroport": "Aéroport Tanger Ibn Battouta (TNG) — 2h"
+      }
+    }
+  },
+  {
+    "id": "safi",
+    "name": "Safi",
+    "region": "Marrakech-Safi",
+    "images": [
+      "../images/S2.jpg",
+      "../images/S1.jpg"
+    ],
+    "description": "Safi est une ville portuaire située sur la côte atlantique du Maroc. Elle est connue pour ses plages de sable doré et son ambiance maritime. La ville abrite un musée maritime et organise plusieurs festivals tout au long de l'année.",
+    "about": {
+      "localisation": "Côte atlantique, entre Essaouira et El Jadida",
+      "ambiance": "Maritime, authentique, artisanale et paisible",
+      "importanceHistorique": "Ancien comptoir portugais au XVIe siècle, capitale historique de la céramique marocaine",
+      "ceQuiLaRendSpeciale": "Ses potiers réputés dans tout le Maroc, son ksar el-Bahr (château de mer) et son port de pêche animé",
+      "tags": ["Ville portuaire", "Céramique", "Atlantique", "Histoire portugaise", "Artisanat"]
+    },
+    "culture": {
+      "cuisineLocale": "À Safi, c'est l'océan qui cuisine. Les pêcheurs ramènent poissons frais qui sont grillés à peine sortis de l'eau, épices et citron vert en accompagnement. La chermoula de Safi, ce mélange savant de coriandre, persil, ail et épices, enrobe chaque fruit de mer. Le tajine aux fruits de mer mêle crevettes, moules et poisson blanc dans une sauce tomate légère. Les sardines marinées, techniques ancestrale de conservation, se dégustent comme des délices. Chaque repas sent l'iode et la saumure de l'Atlantique.",
+      "traditions": "Safi est le berceau du savoir-faire céramique marocain depuis le XVe siècle. Les potiers perpétuent l'art transmis de père en fils, de mère en fille. La pêche traditionnelle, avec ses filets aux mailles savantes, nourrit l'âme du port depuis des siècles. Les fêtes des marins, chaque année, célèbrent la protection divine sur les eaux agitées.",
+      "langueDialecte": "Darija avec influence amazighe du Souss",
+      "musique": "La musique gnaoua résonne dans les cafés du port, guitare hypnotique créant une ambiance méditative. Les chants de pêcheurs, entonnés dès l'aube pour appeler les poissons, créent une mélodie ancienne. La musique chaabi côtière danse au rythme des vagues et des vendeurs de rue.",
+      "artisanat": "Safi est l'âme de la céramique marocaine. Sur la colline des potiers, les artisans façonnent l'argile dans des ateliers familiaux depuis 600 ans. Chaque pièce est peinte à la main avec des motifs géométriques ou floraux. Les sculpteurs sur bois créent des poutres décorées pour les maisons. Les filets de pêche, tissés à la main, sont des œuvres d'art pratiques et magnifiques.",
+      "styleDeVie": "Safi vit au rythme du port. À l'aube, les pêcheurs déploient leurs filets. Le marché aux poissons s'anime, vendeurs criant leurs prix, femmes choisissant le plus frais. Les ateliers de potiers s'ouvrent en fin de matinée. L'après-midi, les terrasses surplombant le port offrent vin blanc local et fruits de mer grillés. Le soir, la ville s'apaise, les pêcheurs réparent leurs filets en attendant demain."
+    },
+    "monuments": ["Ksar el-Bahr (Château de mer)", "Colline des potiers", "Cathédrale portugaise"],
+    "evenements": ["Festival de la musique traditionnelle", "Festival du cinéma","Festival de la poterie"],
+    "placesPopulaires": ["Plage de Safi", "Port de Safi", "Musée maritime", "Colline des potiers"],
+    "infosPratiques": {
+      "meillerePeriode": "Avril – Juin et Septembre – Octobre",
+      "periodeAEviter": "Hiver (vents forts de l'Atlantique)",
+      "temperatureMoyenne": "18 – 26°C",
+      "budgetMoyen": {
+        "hotelNuit": "200 – 500 MAD",
+        "repasRestaurant": "50 – 130 MAD",
+        "transportJour": "15 – 30 MAD",
+        "budgetJour": "300 – 800 MAD"
+      },
+      "transport": {
+        "depuisCasablanca": "3h (route)",
+        "depuisMarrakech": "2h30 (route)",
+        "depuisEssaouira": "1h30 (route)",
+        "aeroport": "Aéroport Marrakech-Menara (RAK) — 2h30"
+      }
+    }
+  },
+  {
+    "id": "essaouira",
+    "name": "Essaouira",
+    "region": "Marrakech-Safi",
+    "images": [
+      "../images/the-town.jpg",
+      "../images/E3.jpg",
+      "../images/classic-view.jpg"
+    ],
+    "description": "Anciennement Mogador, Essaouira est une cité portuaire fortifiée sur la côte atlantique. Ses remparts, ses ruelles blanches et bleues et son port de pêche coloré en font une destination artistique et bohème. Les alizés constants attirent kitesurfeurs et véliplanchistes du monde entier. La médina, classée à l'UNESCO, abrite galeries d'art et ateliers de marqueterie en thuya.",
+    "about": {
+      "localisation": "Côte atlantique, 175 km à l'ouest de Marrakech",
+      "ambiance": "Bohème, artistique, venteuse et sereine",
+      "importanceHistorique": "Ancien port phénicien, comptoir portugais et cité corsaire du XVIIe siècle sous Sultan Mohammed III",
+      "ceQuiLaRendSpeciale": "Ses remparts sur l'Atlantique, ses alizés permanents, sa scène artistique et son bois de thuya unique au monde",
+      "tags": ["Patrimoine UNESCO", "Kitesurf", "Art & Bohème", "Atlantique", "Médina blanche"]
+    },
+    "culture": {
+      "cuisineLocale": "Le port d'Essaouira fumige de poissons grillés. Les pêcheurs cuisinent leur prise du jour directement sur les braises du port — poulpe char, sardinella doré, daurade étincelante. Les tajines de crevettes chauffent dans les cuisines familiales, enrichies de tomate, ail et épices. Les sardines fraîches, réputées les meilleures du Maroc, arrivent dans les assiettes croustillantes. L'huile d'argan locale, pressée en janvier, coule sur les salades. Le msemen au miel, crêpe feuilletée dorée au beurre, est le petit-déjeuner idéal avant une session de kitesurf.",
+      "traditions": "Essaouira respire la culture gnaoua, patrimoine immatériel de l'UNESCO. Les descendants des esclaves noirs marocains gardiennent cette musique hypnotique. La tradition maritime des corsaires, ces pirates notoires du XVIIe siècle, vit toujours dans les histoires racontées. L'artisanat du bois de thuya, si parfumé qu'il éloigne les mites et les malheurs, continue de generación en generación. Les fêtes de la mer célèbrent l'abondance et la protection divine sur l'Atlantique.",
+      "langueDialecte": "Darija marocain avec influence tachelhit (berbère du Souss)",
+      "musique": "La musique gnaoua d'Essaouira a conquis le monde. Chaque note de la gimbri (guitare des ancêtres) est une invocation mystique, création par création durant des heures. La musique andalouse, héritage du XVe siècle, persiste dans les nuits littéraires. Le blues atlantique niche entre le gémissement du vent et le rythme des vagues.",
+      "artisanat": "La marqueterie en bois de thuya d'Essaouira est célèbre internationalement. Les artisans incrustent de petits morceaux de thuya, citron et noyer créant des motifs complexes — tables, coffres, plateaux deviennent des jardins de mosaïque. Les bijoutiers créent des pièces uniques en argent filigrane. Les artistes peintres exposent sur les murs blancs des galeries. Les femmes brident le lin en teintures naturelles, créant des tissus aux couleurs de l'océan.",
+      "styleDeVie": "Essaouira vit les pieds sur terre et la tête en haut. Les galeries d'art pullulent, showcasant talents marocains et internationaux. Les cafés face à l'océan deviennent salons de philosophie, poètes et penseurs se réunissant autour du thé. Les couchers de soleil sur les remparts changent de couleur chaque soir — rose, rouge, orangé, violet. Les sports nautiques — kitesurf, windsurf, voile — créent une symphonie d'aventure. Les soirs, les concerts gnaoua vibrent jusqu'à l'aube."
+    },
+    "monuments": ["Remparts et Skala", "Port de pêche", "Porte de la Marine"],
+    "evenements": ["Festival Gnaoua et Musiques du Monde", "Festival des Alizés"],
+    "placesPopulaires": ["Médina", "Plage d'Essaouira", "Skala de la Ville", "Île de Mogador"],
+    "infosPratiques": {
+      "meillerePeriode": "Avril – Juin (avant les vents forts) et Septembre – Octobre",
+      "periodeAEviter": "Juillet – Août (alizés très forts, sable dans l'air)",
+      "temperatureMoyenne": "16 – 24°C (fraîche toute l'année grâce à l'Atlantique)",
+      "budgetMoyen": {
+        "hotelNuit": "300 – 800 MAD",
+        "repasRestaurant": "70 – 180 MAD",
+        "transportJour": "20 – 50 MAD",
+        "budgetJour": "450 – 1200 MAD"
+      },
+      "transport": {
+        "depuisMarrakech": "2h30 (route ou bus CTM)",
+        "depuisCasablanca": "5h (route)",
+        "depuisAgadir": "2h30 (route)",
+        "aeroport": "Aéroport d'Essaouira-Mogador (ESU) — vols limités"
+      }
+    }
+  },
+  {
+    "id": "rabat",
+    "name": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "images": [
+      "../images/palace-at-rabat.jpg",
+      "../images/R1.jpg",
+      "../images/kasbah-des-oudaias.jpg"
+    ],
+    "description": "Capitale du Maroc, Rabat allie modernité et patrimoine séculaire. La Kasbah des Oudayas, perchée sur une falaise dominant l'embouchure du Bouregreg, offre des ruelles blanchies à la chaux et des jardins andalous. La Tour Hassan, minaret inachevé du XIIe siècle, et le Mausolée Mohammed V sont des joyaux architecturaux. Classée au patrimoine mondial de l'UNESCO, Rabat est une ville verte, paisible et culturelle.",
+    "about": {
+      "localisation": "Côte atlantique, embouchure du Bouregreg, nord du Maroc",
+      "ambiance": "Sereine, verte, diplomatique et culturelle",
+      "importanceHistorique": "Capitale du Maroc depuis le protectorat, fondée au XIIe siècle par les Almohades. Classée UNESCO depuis 2012",
+      "ceQuiLaRendSpeciale": "L'alliance unique entre monuments historiques, jardins luxuriants, vie institutionnelle et façade atlantique apaisante",
+      "tags": ["Capitale royale", "Patrimoine UNESCO", "Ville verte", "Atlantique", "Histoire almohade"]
+    },
+    "culture": {
+      "cuisineLocale": "À Rabat, la cuisine royale s'épanouit. Le couscous du vendredi, rituel sacré depuis des générations, réunit les familles autour d'un plat unique — semoule blanche vaporeuse couronnée de sept légumes et viande fondante. Le tajine de poisson, privilège côtier, mêle chair tendre et sauce tomate légère. La harira, soupe de Ramadan, restaure le corps et l'âme. Les briouates croustillantes fourrées à l'amande gardent les secrets des pâtissiers palatiaux. Les gâteaux fassi, héritage de la tradition royale, demandent des heures de préparation et plusieurs générations de savoir-faire pour être maîtrisés.",
+      "traditions": "Rabat pulse au rythme du protocole royal. La cérémonie du changement de la garde royale, fascinante ballet militaire, attire les touristes et patriotes. Le moussem de Salé, fête religieuse majeure, rassemble pèlerins et fidèles autour de la mosquée. Les familles nobles de la médina perpétuent traditions andalouses, langage raffiné et hospitalité légendaire. Chaque génératio défend les codes de l'élégance urbaine et de la dignité royale.",
+      "langueDialecte": "Darija rabati, considéré comme l'un des plus élaborés — très proche du fassi",
+      "musique": "La musique andalouse-arabe classique résonne depuis les palais jusque dans les rues. Les orchestres de chambre de Rabat jouent Oum Kalsoum et les grands classiques. Le festival Mawazine, festival mondial de musique, transforme la ville en scène de talents internationaux et patrimoine marocain.",
+      "artisanat": "La broderie rabatie, au point délicatement serré, crée des motifs floraux sur tissu. Le zellige ciel-bleu des palais raconte l'éternité. La poterie royale marque chaque pièce de qualité supérieure. Les tapis de haute laine, tissés dans des ateliers familiaux, combinent teintes naturelles et motifs hérités des ancêtres.",
+      "styleDeVie": "Rabat respire la douceur de vivre d'une capitale apaisée. Les promenades sur la corniche surplombant l'Atlantique calment l'âme. Les jardins d'Essais, véritables poumons verts, offrent fraîcheur et silence. Les cafés du Hassan, surplombant la tour inachevée, voient se succéder touristes et Rabatis contemplant ensemble l'horizon. Les terrasses des palais raffinés deviennent salons de conversation. Les couchers de soleil baignent la ville en lumière dorée et la vie semble pauser pour apprécier la beauté."
+    },
+    "monuments": ["Tour Hassan", "Mausolée Mohammed V", "Kasbah des Oudayas", "Chellah"],
+    "evenements": ["Festival Mawazine", "Festival Visa For Music"],
+    "placesPopulaires": ["Kasbah des Oudayas", "Jardin d'Essais", "Médina de Rabat", "Corniche de Rabat"],
+    "infosPratiques": {
+      "meillerePeriode": "Mars – Mai et Septembre – Novembre",
+      "periodeAEviter": "Juillet – Août (chaud et humide)",
+      "temperatureMoyenne": "18 – 28°C",
+      "budgetMoyen": {
+        "hotelNuit": "350 – 900 MAD",
+        "repasRestaurant": "80 – 200 MAD",
+        "transportJour": "20 – 60 MAD",
+        "budgetJour": "500 – 1500 MAD"
+      },
+      "transport": {
+        "depuisCasablanca": "45 min (train)",
+        "depuisFes": "2h30 (train)",
+        "depuisMarrakech": "3h30 (train)",
+        "aeroport": "Aéroport Rabat-Salé (RBA)"
+      }
+    }
+  },
+  {
+    "id": "ifrane",
+    "name": "Ifrane",
+    "region": "Fès-Meknès",
+    "images": [
+      "../images/michlifen-ifrane-suites.jpg",
+      "../images/Ifrane.jpg",
+      "../images/ifrane2.webp"
+    ],
+    "description": "Surnommée la 'Petite Suisse' du Maroc, Ifrane est une ville de montagne au cœur du Moyen Atlas. Avec ses chalets, ses jardins fleuris et ses forêts de cèdres, elle offre un dépaysement total. Station de ski en hiver au col du Michlifen, elle est aussi célèbre pour son lion de pierre sculpté et le parc national d'Ifrane abritant des singes magots.",
+    "about": {
+      "localisation": "Moyen Atlas, à 1 650 m d'altitude, entre Fès et Meknès",
+      "ambiance": "Alpine, fraîche, calme et nature — dépaysement total",
+      "importanceHistorique": "Ville construite par le protectorat français dans les années 1930 pour ressembler à une station alpine européenne",
+      "ceQuiLaRendSpeciale": "Architecture coloniale unique au Maroc, forêts de cèdres millénaires, singes magots sauvages et neige en hiver",
+      "tags": ["Montagne", "Station de ski", "Nature", "Petite Suisse", "Singes magots"]
+    },
+    "culture": {
+      "cuisineLocale": "À Ifrane, la montagne offre ses trésors à table. Les truites fraîches du Moyen Atlas, pêchées aux aurores, grilent sur les braises créant une croûte dorée et chair humide. Le miel de cèdre, miel rare et délicat, coule doucement sur les pancakes du petit-déjeuner. Le fromage de chèvre frais, de fermes isolées, offre fraîcheur et tangeté. Le couscous aux légumes de montagne — courges, navets, carottes — réchauffe les dîners au coin du feu. Le thé à la menthe des montagnes, cultivée sur les pentes, apaise comme un mantra.",
+      "traditions": "Ifrane vit les traditions de montagne berbère profondément. La vie au rythme des saisons, l'élevage des troupeaux, la cueillette des herbes médicinales sacrées — mille-feuille, thym, menthe sauvage — sont le quotidien. Les traditions amazighes du Moyen Atlas perpétuent respect envers la terre, hospitalité envers le voyageur et union face aux montagnes implacables. Chaque famille garde ses secrets de cueillette, ses chemins secrets à travers les cèdres.",
+      "langueDialecte": "Tamazight du Moyen Atlas et darija marocain",
+      "musique": "Les chants amazighes résonnent dans les vallées, voix multicolores racontant histoires de bergers et de tempêtes. La flûte berbère imite le vent qui traverse les forêts de cèdres. Les percussions du Moyen Atlas scand le rythme travail des moissons et des fêtes de montagne.",
+      "artisanat": "Les tapis berbères du Moyen Atlas sont des miniatures du cosmos. Les femmes filent la laine sur des rouets ancestraux, teintent avec plantes et minéraux. Les vêtements en laine tissée, épais et chauds, rappellent les hivers rudes. Les bijoux en argent amazighe, fibules, colliers, bracelets, portent les symboles de protection et de féminité de la montagne.",
+      "styleDeVie": "Ifrane invite à ralentir. Les promenades en forêt parmi les cèdres géants crée un silence merveilleux. L'observation des singes magots, créatures rares et sacrées, devient quasi-spirituelle. L'hiver, les pentes de Michlifen se transforment en terrain de ski. Les pique-niques au bord des lacs glacés, l'air frais des sommets, les étoiles infinies la nuit — tout rappelle la grandeur de la nature et la petitesse humaine."
+    },
+    "monuments": ["Lion de pierre", "Lac Dayet Aoua", "Forêt de cèdres de l'Azrou"],
+    "evenements": ["Festival du Moyen Atlas", "Saison de ski Michlifen"],
+    "placesPopulaires": ["Parc national d'Ifrane", "Michlifen", "Source Vittel", "Lac Dayet Aoua"],
+    "infosPratiques": {
+      "meillerePeriode": "Décembre – Mars (ski et neige) ou Avril – Juin (fleurs et fraîcheur)",
+      "periodeAEviter": "Été (peut être très fréquenté par les familles marocaines)",
+      "temperatureMoyenne": "-5 – 20°C selon la saison (la ville la plus froide du Maroc)",
+      "budgetMoyen": {
+        "hotelNuit": "400 – 1200 MAD",
+        "repasRestaurant": "80 – 200 MAD",
+        "transportJour": "30 – 60 MAD",
+        "budgetJour": "600 – 1800 MAD"
+      },
+      "transport": {
+        "depuisFes": "1h (route)",
+        "depuisMeknes": "1h30 (route)",
+        "depuisCasablanca": "4h (route)",
+        "aeroport": "Aéroport Fès-Saïss (FEZ) — 1h"
+      }
+    }
+  },
+  {
+    "id": "dakhla",
+    "name": "Dakhla",
+    "region": "Dakhla-Oued Ed-Dahab",
+    "images": [
+      "../images/dakhla-maroc.webp",
+      "../images/142381_w-3840_h-2400_q-70_m-crop.jpg",
+      "../images/kitesurfing-dakhla-morocco-1-1280x853.jpg"
+    ],
+    "description": "Presqu'île paradisiaque du Sahara atlantique, Dakhla est un spot mondialement réputé pour le kitesurf et le windsurf. Sa lagune turquoise, ses dunes blanches et ses couchers de soleil flamboyants en font une destination hors du commun. La pêche, la faune marine et les campements désertiques complètent l'expérience.",
+    "about": {
+      "localisation": "Presqu'île du Sahara atlantique, extrême sud du Maroc, 1 700 km de Casablanca",
+      "ambiance": "Sauvage, aventurière, désertique et marine — bout du monde fascinant",
+      "importanceHistorique": "Ancienne colonie espagnole (Villa Cisneros), porte du Sahara occidental, zone de pêche stratégique de l'Atlantique",
+      "ceQuiLaRendSpeciale": "La lagune turquoise de 40 km parfaite pour les sports nautiques, les dunes blanches du Sahara et la faune marine exceptionnelle",
+      "tags": ["Kitesurf", "Sahara", "Lagune", "Sport nautique", "Désert atlantique"]
+    },
+    "culture": {
+      "cuisineLocale": "À Dakhla, le Sahara et l'Atlantique fusionnent sur l'assiette. Le poisson frais sahraouien, capturé chaque matin, devient grillé ou en tagine. Le méchoui de chameau, rôti lentement sur braises, offre viande tendre et légèrement gamée. Le thé sahraoui à la menthe, servi en 3 verres rituels (le premier amer comme la vie, le second fort comme l'amour, le troisième sucré comme la mort), scelle chaque moment social. Le pain maison cuit dans le sable, une recette pré-islamique, sort fumant et savoureux. Chaque repas en tente nomade raconte mille nuits de désert.",
+      "traditions": "Dakhla vibrant de l'hospitalité sahraouie légendaire. Une tente nomade s'ouvre toujours au voyageur fatigué — thé, datte, pain. La vie des tentes nomades continue malgré la modernisation, familles se déplaçant avec les troupeaux et les saisons. La culture hassanie, spécifique au Sahara marocain, perpétue poésie orale, musique-récit et respect du code du désert. Le cérémonial du thé en 3 services n'est pas casual — c'est un rituel social où les conversations importantes naissent.",
+      "langueDialecte": "Hassania (dialecte arabe sahraoui) et darija marocain",
+      "musique": "La musique hassanie chante l'amour perdu sous les étoiles infinies du désert. La poésie orale sahraouie, métaphorique et énigmatique, se récite autour des feux. Les percussions du désert, tambourins de peau tendue, créent rythmes hypnotiques dans les tentes.",
+      "artisanat": "Les bijoux en argent sahraouis, massifs et géométriques, racontent statut et tribu de porteuse. Les tentes en laine de chameau, tissées à partir de poils d'animaux du désert, résistent tempêtes sablonneuses. Les poteries du désert, simples et épaisses, conservent eau fraîche. Les robes melhfa colorées, enrobant le corps entier, offrent protection contre le soleil et permettent mobilité nomade.",
+      "styleDeVie": "Dakhla est le rêve de l'aventure. Les campements au coucher de soleil sur la lagune turquoise créent décor digne de conte. Les sessions de kitesurf à l'aube, lorsque le vent se lève, offrent symbiose parfaite entre l'humain et éléments. La pêche traditionionnelle, depuis pirogue ou à pied, nourrit corps et âme. La vie nomade, loin de villes, enseigne minimalisme et connexion à la terre. Les nuits sous étoiles innombrables rappellent l'infinitude de l'univers."
+    },
+    "monuments": ["Cathédrale espagnole", "Port de Dakhla", "Dune Blanche"],
+    "evenements": ["Dakhla Downwind Challenge", "Festival international du film de Dakhla"],
+    "placesPopulaires": ["Lagune de Dakhla", "Pointe du Dragon", "Dune Blanche", "Baie de Cintra"],
+    "infosPratiques": {
+      "meillerePeriode": "Octobre – Avril (vent régulier pour kitesurf, température agréable)",
+      "periodeAEviter": "Août (chaleur saharienne intense)",
+      "temperatureMoyenne": "20 – 32°C (très ensoleillé toute l'année)",
+      "budgetMoyen": {
+        "hotelNuit": "400 – 1500 MAD",
+        "repasRestaurant": "80 – 200 MAD",
+        "transportJour": "50 – 100 MAD",
+        "budgetJour": "700 – 2500 MAD"
+      },
+      "transport": {
+        "depuisAgadir": "10h (route) ou 1h30 (avion)",
+        "depuisCasablanca": "12h (route) ou 2h (avion)",
+        "depuisLaayoune": "3h (route)",
+        "aeroport": "Aéroport de Dakhla (VIL) — vols directs depuis Casablanca et Agadir"
+      }
+    }
+  },
+  {
+    "id": "tanger",
+    "name": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "images": [
+      "../images/T1.jpg",
+      "../images/142381_w-3840_h-2400_q-70_m-crop.jpg",
+      "../images/kitesurfing-dakhla-morocco-1-1280x853.jpg"
+    ],
+    "description": "Carrefour de civilisations entre l'Europe et l'Afrique, Tanger est une ville cosmopolite baignée par l'Atlantique et la Méditerranée. Son détroit mythique, sa médina historique, ses librairies légendaires et son passé de ville internationale en font une destination unique, hantée par les fantômes de Matisse, Delacroix et Paul Bowles.",
+    "about": {
+      "localisation": "Extrême nord du Maroc, à 14 km de l'Espagne, entre Atlantique et Méditerranée",
+      "ambiance": "Cosmopolite, artistique, mystérieuse et ouverte sur le monde",
+      "importanceHistorique": "Ville internationale de 1923 à 1956, refuge d'artistes et d'écrivains, carrefour stratégique depuis l'Antiquité phénicienne",
+      "ceQuiLaRendSpeciale": "Le détroit de Gibraltar, la cohabitation des cultures, la médina sur mer et le passé de ville libre et bohème",
+      "tags": ["Détroit de Gibraltar", "Ville cosmopolite", "Art & Littérature", "Porte de l'Europe", "Atlantique & Méditerranée"]
+    },
+    "culture": {
+      "cuisineLocale": "Tanger cuisine à la croisée des cultures. Le poisson à la chermoula, sauce verte d'herbes fraiches, apprend le respect de la mer. La pastilla de fruits de mer, fusión sucré-salé, célèbre mariage des civilisations. Le seffa tanjaoui, semoule mélangée à bouillon riche et garni d'amandes, est pure poésie. La kefta grillée, mélange de viande hachée et épices, sort fumante des braseros. Le thé à la menthe savoure à la terrasse surplombant le détroit, où côté espagnol scintille sous le soleil.",
+      "traditions": "Tanger respire folklore rifain, battements du cœur montagnard. La culture andalouse, héritée des réfugiés du XVe siècle, persiste en architecture et mentalité. Les cafés littéraires, tradition bohème de la ville internationale, demeurent lieux de pensée libre. La mémoire de la ville libre entre 1923-1956 vit dans histoires racontées, dans atmosphère de liberté restante. Chaque coin raconte histoire cosmopolite, carrefour civilisations.",
+      "langueDialecte": "Darija du nord avec influence espagnole (nombreux mots espagnols intégrés)",
+      "musique": "Le flamenco marocain pulse du dolor et passion, guitare espagnole rencontrant rythmes berbères. La musique andalouse classique résonne dans cours intérieures. Le chaabi du nord danse rues étroites. Les influences espagnoles entrelacent chaque note, rappelant proximité géographique et histoire partagée.",
+      "artisanat": "Le cuir tanné de Tanger, dans les tanneries ancestrales, porte couleurs naturelles chatoyantes. La céramique du nord brille de motifs bleus et jaunes. Les tapis berbères représentent montagnes et histoires familles rifaines. Les bijoux en argent filigrane, délicats et complexes, demandent patience d'orfèvre.",
+      "styleDeVie": "Tanger invite à flâner. Les cafés sur la terrasse du Grand Socco deviennent observatoires de vie urbaine. Les promenades sur la Corniche, vue sur détroit, rafraîchissent l'âme. Les plages où profil européen se dessine à l'horizon rappellent deux mondes coexistant. Les soirs, les bars jazz offrent musique expatriée. Les librairies anglaises garder esprit littéraire bohème. Tanger demeure ville de rêveurs, mystiques et aventuriers."
+    },
+    "monuments": ["Kasbah de Tanger", "Cap Spartel", "Grottes d'Hercule", "Grand Socco"],
+    "evenements": ["Festival de Tanger", "Festival des musiques du détroit"],
+    "placesPopulaires": ["Cap Spartel", "Grottes d'Hercule", "Médina de Tanger", "Plage de Tanger"],
+    "infosPratiques": {
+      "meillerePeriode": "Avril – Juin et Septembre – Octobre",
+      "periodeAEviter": "Juillet – Août (très fréquenté, prix élevés)",
+      "temperatureMoyenne": "17 – 28°C",
+      "budgetMoyen": {
+        "hotelNuit": "350 – 1000 MAD",
+        "repasRestaurant": "80 – 220 MAD",
+        "transportJour": "25 – 60 MAD",
+        "budgetJour": "550 – 1800 MAD"
+      },
+      "transport": {
+        "depuisCasablanca": "5h30 (train) ou 4h (route)",
+        "depuisRabat": "4h (train)",
+        "depuisFes": "4h30 (route)",
+        "aeroport": "Aéroport Tanger Ibn Battouta (TNG)"
+      }
+    }
+  },
+  {
+    "id": "agadir",
+    "name": "Agadir",
+    "region": "Souss-Massa",
+    "images": [
+      "../images/AG1.webp",
+      "../images/A2.png",
+      "../images/A3.png"
+    ],
+    "description": "Station balnéaire moderne sur la côte atlantique, Agadir a été reconstruite après le tremblement de terre de 1960. Avec 300 jours de soleil par an, sa baie offre une longue plage de sable fin idéale pour le surf et les sports nautiques. Le village de Taghazout, à 20 km au nord, est devenu un haut lieu du surf mondial. Le souk El Had et la kasbah en ruines offrent un aperçu de l'histoire de la région.",
+    "about": {
+      "localisation": "Côte atlantique du Souss, sud du Maroc, 500 km de Casablanca",
+      "ambiance": "Balnéaire, moderne, ensoleillée et détendue",
+      "importanceHistorique": "Détruite par un séisme dévastateur en 1960 et entièrement reconstruite, symbole de résilience. Ancienne forteresse portugaise",
+      "ceQuiLaRendSpeciale": "300 jours de soleil par an, 9 km de plage de sable fin, Taghazout (spot surf mondial) et l'arrière-pays amazigh",
+      "tags": ["Station balnéaire", "Surf", "Soleil & Plage", "Souss amazigh", "Tourisme balnéaire"]
+    },
+    "culture": {
+      "cuisineLocale": "Couscous au poulet fermier du Souss, tajine d'argan et citron confit, poisson atlantique, huile d'argan et amlou (pâte d'amande à l'argan)",
+      "traditions": "Culture amazighe du Souss, fêtes de l'argan, tisseuses berbères et coutumes des tribus Chleuh",
+      "langueDialecte": "Tachelhit (berbère du Souss) et darija — région la plus amazighophone du Maroc",
+      "musique": "Ahwach (danse et chant collectif amazigh), Rways (poésie chantée chleuh) et musique gnaoua du Sud",
+      "artisanat": "Bijoux en argent amazighes, huile d'argan (trésor local), poterie du Souss et tapis de haute laine",
+      "styleDeVie": "Plages animées, bars sur la marina, surf à Taghazout, souks du matin et couchers de soleil sur l'Atlantique"
+    },
+    "monuments": ["Kasbah d'Agadir Oufella", "Musée du patrimoine amazigh", "Ancienne Médina reconstituée"],
+    "evenements": ["Festival Timitar (musiques amazighes)", "Festival international du film documentaire"],
+    "placesPopulaires": ["Plage d'Agadir", "Souk El Had", "Marina", "Taghazout"],
+    "infosPratiques": {
+      "meillerePeriode": "Toute l'année — surtout Novembre – Avril (idéal pour fuir l'hiver européen)",
+      "periodeAEviter": "Aucune période vraiment mauvaise (300 jours de soleil)",
+      "temperatureMoyenne": "20 – 30°C toute l'année",
+      "budgetMoyen": {
+        "hotelNuit": "400 – 1500 MAD",
+        "repasRestaurant": "80 – 250 MAD",
+        "transportJour": "30 – 70 MAD",
+        "budgetJour": "600 – 2000 MAD"
+      },
+      "transport": {
+        "depuisMarrakech": "2h30 (route)",
+        "depuisCasablanca": "6h (route) ou 1h (avion)",
+        "depuisEssaouira": "2h30 (route)",
+        "aeroport": "Aéroport Al Massira d'Agadir (AGA) — nombreux vols internationaux directs"
+      }
+    }
+  }
+]

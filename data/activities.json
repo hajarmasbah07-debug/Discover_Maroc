@@ -1,0 +1,585 @@
+[
+  {
+    "id": 6,
+    "name": "Visite Mausolée Mohammed V et Tour Hassan",
+    "city": "Rabat",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rabat%2C_old_and_new_%28Mausoleum_of_Mohammed_V_and_new_Mohammed_VI_Tower_behind%3B_%D8%B6%D8%B1%D9%8A%D8%AD_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%29.jpg",
+    "description": "Site emblématique de Rabat classé UNESCO. Visite du mausolée royal et des colonnes inachevées de la mosquée almohade du XIIe siècle. Guide disponible sur place en plusieurs langues.",
+    "reviews": [
+      { "author": "Sophie L.", "rating": 5, "comment": "Site absolument magnifique, l'histoire du Mausolée et de la Tour Hassan est racontée avec passion. Vue splendide sur Rabat depuis l'esplanade.", "date": "2026-03-25T10:34:01.489270" },
+      { "author": "Pierre D.", "rating": 5, "comment": "Architecture impressionnante et parfaitement conservée. Les détails almohades du XIIe siècle sont fascinants à observer de près. Incontournable à Rabat!", "date": "2026-03-08T10:34:01.489277" },
+      { "author": "Fatima M.", "rating": 4, "comment": "Très beau site touristique chargé d'histoire. Un peu bondé le week-end mais l'atmosphère royale et solennelle compense largement.", "date": "2026-04-05T10:34:01.489285" },
+      { "author": "Hassan R.", "rating": 5, "comment": "Patrimoine UNESCO exceptionnel. La signification historique et spirituelle du lieu rend chaque minute de la visite mémorable et émouvante.", "date": "2026-04-18T10:34:01.489286" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Le site, couvert en partie, permet une visite agréable quelle que soit la saison. Temperatures modérées à Rabat."
+  },
+  {
+    "id": 7,
+    "name": "Visite Kasbah des Oudaïas",
+    "city": "Rabat",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/0b/75/4d/andalusian-gardens.jpg?w=900&h=500&s=1",
+    "description": "Forteresse almohade du XIIe siècle dominant l'Atlantique et l'estuaire du Bou Regreg. Ruelles bleues et blanches, jardin andalou et musée des arts marocains. Inscrit au patrimoine mondial de l'UNESCO.",
+    "reviews": [
+      { "author": "Sophie L.", "rating": 5, "comment": "Les ruelles bleues et blanches sont vraiment pittoresques! Le jardin andalou est un havre de paix parfait. Vue imprenable sur l'océan depuis les remparts.", "date": "2026-04-10T10:34:01.489299" },
+      { "author": "Jean M.", "rating": 5, "comment": "Architecture almohade remarquable et bien préservée. Le musée des arts marocains à l'intérieur vaut vraiment le détour. Patrimoine UNESCO vivant.", "date": "2026-02-06T10:34:01.489307" },
+      { "author": "Amina K.", "rating": 4, "comment": "Endroit charmant et authentique, encore préservé du tourisme de masse. Parfait pour se perdre dans les ruelles et prendre de belles photos.", "date": "2026-02-20T10:34:01.489320" },
+      { "author": "Robert P.", "rating": 5, "comment": "Absolument spectaculaire! L'ambiance méditerranéenne et l'histoire vivante de la kasbah m'ont complètement transporté. Une visite inoubliable.", "date": "2026-03-28T10:34:01.489321" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. La kasbah bénéficie de jardins ombragés et d'une situation en bord de mer offrant fraîcheur toute l'année."
+  },
+  {
+    "id": 8,
+    "name": "Musée National de la Céramique de Safi",
+    "city": "Safi",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.1,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9e/a1/70/caption.jpg?w=1200&h=1200&s=1",
+    "description": "Musée consacré à l'art de la faïence safie, célèbre dans tout le Maroc. Présente l'histoire et la fabrication de la céramique depuis le XIVe siècle. Collection permanente très bien aménagée, visite recommandée.",
+    "reviews": [
+      { "author": "Célia R.", "rating": 5, "comment": "Collection de céramique époustouflante! Les pièces historiques exposées depuis le XIVe siècle témoignent d'un savoir-faire extraordinaire. Très bien mis en valeur.", "date": "2026-04-08T10:34:01.489343" },
+      { "author": "Marie D.", "rating": 4, "comment": "Musée instructif sur l'évolution de la faïence safie à travers les siècles. Les techniques traditionnelles sont très bien expliquées. Petit mais dense en contenu.", "date": "2026-02-08T10:34:01.489439" },
+      { "author": "Ahmed B.", "rating": 4, "comment": "Bonne introduction à la richesse de la céramique marocaine. La collection est bien organisée et agréable à parcourir. Une belle découverte culturelle.", "date": "2026-03-15T10:34:01.489440" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Activité intérieure dans un musée climatisé, idéale quelle que soit la saison pour découvrir l'art céramique safie."
+  },
+  {
+    "id": 9,
+    "name": "Surf à Safi Point",
+    "city": "Safi",
+    "category": "activite",
+    "activityType": "sport",
+    "rating": 4.7,
+    "image": "https://www.surfer.com/.image/MjowMDAwMDAwMDAwMTI4OTA5/r-c-jones-safi-mars-1994-2_eric-chauche.jpg?io=1&profile=w2560&x=0&y=0",
+    "description": "Spot de surf réputé mondialement pour ses longues vagues de droite. Safi Point accueille des compétitions internationales. Idéal pour surfeurs intermédiaires et confirmés, location de matériel disponible sur place.",
+    "reviews": [
+      { "author": "Lucas T.", "rating": 5, "comment": "Vagues époustouflantes à Safi Point! Les droites sont longues, régulières et puissantes. Un spot de niveau mondial qui mérite amplement sa réputation.", "date": "2026-03-29T10:34:01.489571" },
+      { "author": "David M.", "rating": 5, "comment": "Excellent spot pour les surfeurs intermédiaires et confirmés. Les conditions océaniques sont constantes et l'ambiance entre surfeurs est vraiment conviviale.", "date": "2026-04-18T10:34:01.489594" },
+      { "author": "Nina P.", "rating": 4, "comment": "Bonnes conditions aujourd'hui à Safi Point. Vagues puissantes et bien formées, idéales pour progresser. Moins fréquenté en semaine, c'est parfait!", "date": "2026-04-07T10:34:01.489610" },
+      { "author": "Kevin R.", "rating": 5, "comment": "J'ai eu un des meilleurs rides de ma vie sur ces vagues! La communauté de surfeurs locaux est très accueillante. Je reviendrai en automne pour les meilleures conditions.", "date": "2026-04-25T10:34:01.489611" }
+    ],
+    "price": 350,
+    "difficulty": "Difficile",
+    "bestPeriod": "Octobre à avril - Vagues plus puissantes et conditions optimales. Températures de l'eau agréables (14-18°C). Éviter juillet-août avec eau plus froide et vagues moins sûres."
+  },
+  {
+    "id": 10,
+    "name": "Colline des Potiers de Safi",
+    "city": "Safi",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.5,
+    "image": "../images/safi.jpg",
+    "description": "Quartier artisanal où des dizaines de potiers travaillent l'argile dans des fours traditionnels. Visite des ateliers ouverts au public, démonstrations de tournage et vente directe de pièces uniques en céramique safie.",
+    "reviews": [
+      { "author": "Isabelle F.", "rating": 5, "comment": "Les potiers sont incroyables à regarder travailler! Les démonstrations au tour sont fascinantes et j'ai pu repartir avec une belle pièce unique achetée directement à l'artisan.", "date": "2026-02-18T10:34:01.489642" },
+      { "author": "Thomas H.", "rating": 4, "comment": "Expérience vraiment authentique. Voir les techniques ancestrales dans les fours traditionnels est impressionnant. Une belle immersion dans l'artisanat marocain.", "date": "2026-04-05T10:34:01.489657" },
+      { "author": "Leila A.", "rating": 5, "comment": "Ambiance chaleureuse et artisans très accueillants avec les visiteurs. Les pièces façonnées à la main sont magnifiques et vendues à des prix très justes.", "date": "2026-03-22T10:34:01.489658" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Atelier artisanal couvert où les potiers travaillent en permanence. Visite enrichissante peu affectée par le climat."
+  },
+  {
+    "id": 11,
+    "name": "Château de Mer (Dar el Bahar)",
+    "city": "Safi",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.2,
+    "image": "https://cruiseweb.com/api/media/file/ports-of-call-safi.jpg",
+    "description": "Forteresse portugaise du XVe siècle construite directement au bord de l'océan Atlantique. L'un des monuments les plus emblématiques de Safi offrant une vue panoramique exceptionnelle.",
+    "reviews": [
+      { "author": "Elena G.", "rating": 5, "comment": "Forteresse impressionnante construite directement sur la mer! Les vues panoramiques sur l'Atlantique sont spectaculaires. L'architecture portugaise du XVe siècle est remarquablement bien préservée.", "date": "2026-03-13T10:34:01.489683" },
+      { "author": "Miguel S.", "rating": 4, "comment": "Monument emblématique de Safi avec une position unique directement sur l'océan. Les photos depuis les remparts sont tout simplement magnifiques.", "date": "2026-02-02T10:34:01.489696" },
+      { "author": "Nora C.", "rating": 4, "comment": "Bel endroit pour se balader et contempler l'Atlantique. La vue sur l'océan depuis les remparts est vraiment mémorable, surtout en fin de journée.", "date": "2026-03-30T10:34:01.489697" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Forteresse en bord de mer offrant des vues panoramiques constantes. Vue optimale au coucher du soleil toute l'année."
+  },
+  {
+    "id": 15,
+    "name": "Kitesurf dans le lagon de Dakhla",
+    "city": "Dakhla",
+    "category": "activite",
+    "activityType": "sport",
+    "rating": 4.9,
+    "image": "https://www.planetkitesurfholidays.com/images/header/kitesurf_dakhla.jpg",
+    "description": "Le lagon de Dakhla est classé parmi les meilleurs spots de kitesurf au monde. Eau plate, vent alizé quasi permanent et conditions idéales pour tous niveaux. Plusieurs écoles certifiées IKO proposent des cours et de la location de matériel.",
+    "reviews": [
+      { "author": "Youssef H.", "rating": 5, "comment": "Les conditions à Dakhla sont tout simplement parfaites pour le kitesurf! Vent alizé stable et eau plate à perte de vue. J'ai progressé énormément en quelques jours.", "date": "2026-02-05T10:34:01.489860" },
+      { "author": "Bruno K.", "rating": 5, "comment": "Kitesurf à un niveau mondial dans ce lagon unique! J'ai suivi un cours IKO ici et ma progression a été impressionnante grâce aux conditions idéales du site.", "date": "2026-04-12T10:34:01.489873" },
+      { "author": "Sophie T.", "rating": 5, "comment": "Sensationnel! Le vent constant et l'eau plate du lagon de Dakhla en font un spot de rêve pour les kiters de tous niveaux. Impossible de repartir avant d'avoir tout essayé!", "date": "2026-04-20T10:34:01.489874" }
+    ],
+    "price": 350,
+    "difficulty": "Moyen",
+    "bestPeriod": "Mars à octobre - Conditions de vent alizé optimales (constant et prévisible). Eau plate idéale pour tous niveaux. Éviter novembre-février avec vent moins stable."
+  },
+  {
+    "id": 16,
+    "name": "Excursion baie de Dakhla et observation des flamants roses",
+    "city": "Dakhla",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.7,
+    "image": "https://visit-dakhla.com/wp-content/uploads/2025/04/flamants-roses-dakhla-1024x569.png",
+    "description": "Sortie en bateau dans la baie de Dakhla pour observer les flamants roses et les dauphins dans leur habitat naturel. Snorkeling dans les eaux cristallines et pique-nique sur une plage sauvage. Paysage unique entre dunes et lagon.",
+    "reviews": [
+      { "author": "Laure V.", "rating": 5, "comment": "Incroyable! Des centaines de flamants roses et des dauphins jouant autour du bateau. Le snorkeling dans les eaux cristallines était superbe et le pique-nique sur la plage sauvage mémorable.", "date": "2026-02-19T10:34:01.489895" },
+      { "author": "Marc T.", "rating": 5, "comment": "Observation exceptionnelle de la faune marine dans la baie. Le paysage unique entre dunes de sable et lagon est à couper le souffle. Une expérience nature rare.", "date": "2026-03-24T10:34:01.489910" },
+      { "author": "Amina N.", "rating": 5, "comment": "C'est magique! Plusieurs centaines de flamants roses observés de très près depuis le bateau. Les dauphins sont venus jouer à côté de nous. Expérience nature absolument inoubliable.", "date": "2026-03-05T10:34:01.489923" },
+      { "author": "Carlos E.", "rating": 4, "comment": "Très beau paysage désert-lagon vraiment unique. La traversée en bateau est un peu longue mais le spectacle naturel en vaut largement la peine.", "date": "2026-04-02T10:34:01.489924" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Novembre à avril - Meilleure période pour observer les oiseaux migrateurs et flamants roses. Températures agréables (15-22°C) pour le snorkeling. Éviter juillet-août (eau très chaude, faune moins active)."
+  },
+  {
+    "id": 21,
+    "name": "Randonnée Cascades d'Akchour",
+    "city": "Chefchaouen",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.8,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a7/8e/df/torrente.jpg?w=900&h=500&s=1",
+    "description": "Trek dans le parc naturel de Talassemtane jusqu'aux cascades d'Akchour et le célèbre Pont de Dieu. Forêts de cèdres, rivière Farda et villages berbères. L'une des randonnées les plus populaires du nord du Maroc.",
+    "reviews": [
+      { "author": "Jean L.", "rating": 5, "comment": "Les cascades d'Akchour et le Pont de Dieu naturel sont absolument spectaculaires! La randonnée à travers les forêts de cèdres et la rivière Farda est une expérience inoubliable.", "date": "2026-03-13T10:34:01.490207" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Parc naturel de Talassemtane magnifique! Le Pont de Dieu est une formation naturelle surréaliste. Le trek à travers les villages berbères ajoute une dimension humaine très enrichissante.", "date": "2026-03-19T10:34:01.490215" },
+      { "author": "Hassan B.", "rating": 5, "comment": "L'une des plus belles randonnées du nord du Maroc, et à juste titre! Les paysages traversés entre forêts, cascades et villages berbères sont d'une beauté rare.", "date": "2026-02-19T10:34:01.490223" },
+      { "author": "Sofia M.", "rating": 4, "comment": "Belle randonnée de niveau modéré avec des cascades vraiment impressionnantes en récompense. Un peu fréquentée en week-end mais l'ambiance reste festive et agréable.", "date": "2026-04-10T10:34:01.490224" }
+    ],
+    "price": 0,
+    "difficulty": "Moyen",
+    "bestPeriod": "Avril à juin et septembre à novembre - Températures idéales pour la randonnée (15-25°C). Eau des cascades agréable. Éviter juillet-août (chaleur intense, risque de déshydratation) et janvier-février (froid en montagne)."
+  },
+  {
+    "id": 22,
+    "name": "Cascade et source Ras El Ma",
+    "city": "Chefchaouen",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?w=500&h=350&fit=crop",
+    "description": "Source d'eau vive en lisière de la médina de Chefchaouen, où les femmes lavent traditionnellement le linge. Parc ombragé idéal pour une pause, avec petits restaurants locaux autour. Accès facile depuis le centre-ville.",
+    "reviews": [
+      { "author": "Rita A.", "rating": 5, "comment": "Endroit très agréable et rafraîchissant! La source d'eau fraîche et le cadre ombragé sont parfaits pour souffler après une journée d'exploration dans la médina bleue.", "date": "2026-04-01T10:34:01.490237" },
+      { "author": "Omar K.", "rating": 4, "comment": "Accès très facile depuis le centre-ville. Observer la vie quotidienne traditionnelle autour de la source est une expérience authentique et touchante.", "date": "2026-01-24T10:34:01.490248" },
+      { "author": "Marie F.", "rating": 4, "comment": "Petit coin tranquille et verdoyant idéal pour une pause. Les petits restaurants locaux autour proposent une cuisine simple et délicieuse. Une halte incontournable.", "date": "2026-03-18T10:34:01.490249" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Source d'eau vive offrant fraîcheur toute l'année. Visite agréable même en été grâce à l'eau et aux zones ombragées du parc."
+  },
+  {
+    "id": 26,
+    "name": "Taghazout's Surf Camps",
+    "city": "Agadir",
+    "category": "activite",
+    "activityType": "sport",
+    "rating": 4.8,
+    "image": "../images/taghazout.jpg",
+    "description": "Village de surfeurs de Taghazout, à 20 km d'Agadir, réputé mondialement pour ses vagues. Plusieurs camps de surf proposent des cours pour tous niveaux avec moniteurs certifiés ISA. Spots emblématiques : Anchor Point, Hash Point, Panoramas.",
+    "reviews": [
+      { "author": "Lucas B.", "rating": 5, "comment": "Taghazout est un village de surfeurs mythique! Les vagues d'Anchor Point sont fantastiques et l'ambiance internationale du spot est vraiment unique au Maroc.", "date": "2026-03-25T10:34:01.490579" },
+      { "author": "Sarah M.", "rating": 5, "comment": "Hash Point et Anchor Point sont des spots fabuleux! J'ai suivi un cours ISA ici et j'ai progressé de manière impressionnante grâce à la qualité des vagues. Une semaine inoubliable!", "date": "2026-01-26T10:34:01.490591" },
+      { "author": "Raj P.", "rating": 4, "comment": "Beau village avec une belle communauté de surfeurs du monde entier. Les conditions océaniques sont vraiment impressionnantes en pleine saison.", "date": "2026-03-31T10:34:01.490600" },
+      { "author": "Elena C.", "rating": 5, "comment": "Meilleur endroit pour progresser en surf au Maroc! La qualité et la régularité des vagues de Taghazout permettent une amélioration rapide quel que soit son niveau.", "date": "2026-04-15T10:34:01.490601" }
+    ],
+    "price": 350,
+    "difficulty": "Moyen",
+    "bestPeriod": "Octobre à avril - Conditions idéales pour le surf avec vagues constantes et puissantes. Températures agréables (15-22°C). Éviter juillet-août avec chaleur intense et conditions moins favorables."
+  },
+  {
+    "id": 27,
+    "name": "Excursion Vallée du Paradis (Anti-Atlas)",
+    "city": "Agadir",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.6,
+    "image": "https://citytoursmorocco.com/images/hero-paradise-valley.webp",
+    "description": "Excursion en 4x4 dans les gorges et villages berbères de l'Anti-Atlas au départ d'Agadir. Paysages dramatiques, arganiers centenaires, piscines naturelles et déjeuner chez l'habitant. Proposé par de nombreuses agences locales.",
+    "reviews": [
+      { "author": "Marco V.", "rating": 5, "comment": "Paysages dramatiques absolument spectaculaires! Les gorges de l'Anti-Atlas et les arganiers centenaires sont impressionnants. Le déjeuner chez l'habitant était une expérience humaine très authentique.", "date": "2026-04-13T10:34:01.490622" },
+      { "author": "Yasmine T.", "rating": 5, "comment": "Les piscines naturelles au cœur des gorges sont rafraîchissantes et magnifiques! Les villages berbères traversés sont authentiques et l'accueil des habitants est chaleureux.", "date": "2026-02-21T10:34:01.490633" },
+      { "author": "David J.", "rating": 5, "comment": "L'Anti-Atlas est un paysage vraiment unique et spectaculaire! La piste en 4x4 traverse des passages incroyables entre falaises et oueds. Une journée d'aventure mémorable.", "date": "2026-03-07T10:34:01.490644" },
+      { "author": "Leila B.", "rating": 4, "comment": "Belle journée d'excursion dans des paysages variés et préservés. Loin de l'agitation touristique de Marrakech, on se retrouve vraiment au cœur du Maroc authentique.", "date": "2026-04-12T10:34:01.490645" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Mars à mai et septembre à novembre - Températures modérées (18-28°C) idéales pour l'excursion en 4x4. Paysages colorés au printemps et automne. Éviter juillet-août (chaleur accablante du désert)."
+  },
+  {
+    "id": 33,
+    "name": "Visite Cap Spartel et Grottes d'Hercule",
+    "city": "Tanger",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.7,
+    "image": "https://ak-d.tripcdn.com/images/0103x12000k1867ad608A.jpg",
+    "description": "Excursion au phare de Cap Spartel, point de jonction de l'Atlantique et de la Méditerranée, et découverte des grottes d'Hercule, creusées par la mer depuis des millénaires. Site incontournable aux portes de Tanger.",
+    "reviews": [
+      { "author": "Francesca L.", "rating": 5, "comment": "Cap Spartel est absolument magnifique! Observer la rencontre entre l'Atlantique et la Méditerranée est surréaliste. Les grottes d'Hercule creusées par les vagues sont tout aussi spectaculaires.", "date": "2026-02-05T10:34:01.491179" },
+      { "author": "Anders K.", "rating": 5, "comment": "Le phare historique et les grottes antiques sont deux sites fascinants à visiter ensemble. Les légendes millénaires associées au lieu ajoutent une dimension mystérieuse à la visite.", "date": "2026-04-10T10:34:01.491193" },
+      { "author": "Amaia R.", "rating": 4, "comment": "Beau site naturel et historique aux portes de Tanger. Les vues depuis le phare sur la côte sont magnifiques. Les grottes sont impressionnantes même si l'accès est un peu escarpé.", "date": "2026-03-28T10:34:01.491194" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Site côtier aéré offrant vues spectaculaires et climat méditerranéen tempéré. Visite agréable quelle que soit la saison."
+  },
+  {
+    "id": 34,
+    "name": "Visite Musée de la Légation Américaine",
+    "city": "Tanger",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.5,
+    "image": "https://img.atlasobscura.com/tUIzjIdZivVodQzLMUpCgxZXg-eQMXBtldAfrEdy_7A/rs:fill:780:520:1/g:ce/c:1527:1018:nowe:6:413/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ODc5/N2MyZi01YWM1LTQ3/NTQtYjJmYi1kZTRi/MzNiZTExMjhhYWIx/YWI2ZWY1ZGQzMjIx/ZmNfSmFyZGluX2R1/X211c2XMgWVfYW1l/zIFyaWNhaW4uanBl/Zw.jpg",
+    "description": "Seul bâtiment appartenant aux États-Unis hors de leur territoire, offert par le sultan Moulay Slimane en 1821. Musée retraçant les liens historiques entre le Maroc et les USA, avec collection de peintures et photos d'époque.",
+    "reviews": [
+      { "author": "Patricia A.", "rating": 5, "comment": "Un fait historique unique au monde! Ce bâtiment et sa collection de peintures et photos d'époque retracent de façon fascinante deux siècles de relations entre le Maroc et les États-Unis.", "date": "2026-02-03T10:34:01.491219" },
+      { "author": "Robert H.", "rating": 5, "comment": "Les relations diplomatiques entre le Maroc et les USA y sont très bien documentées et mises en contexte. Le bâtiment lui-même, avec son architecture et son histoire, est exceptionnel.", "date": "2026-02-16T10:34:01.491233" },
+      { "author": "Aicha B.", "rating": 4, "comment": "Musée méconnu mais vraiment intéressant à Tanger. L'architecture du bâtiment est belle et la visite richement informative. Petit mais la qualité du contenu vaut largement le détour.", "date": "2026-03-20T10:34:01.491234" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Musée climatisé présentant l'histoire des relations USA-Maroc. Activité d'intérieur idéale pour tous les climats."
+  },
+  {
+    "id": 52,
+    "name": "Visite Jardins Majorelle",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.8,
+    "image": "https://media.timeout.com/images/105746186/image.jpg",
+    "description": "Jardins botaniques créés par Jacques Majorelle et restaurés par Yves Saint Laurent. Bambouseraie, nénuphars, cactus géants, villa bleue cobalt abritant le musée berbère et le musée Yves Saint Laurent. Site le plus visité de Marrakech.",
+    "reviews": [
+      { "author": "Antoine G.", "rating": 5, "comment": "Jardins absolument magiques! La villa bleue cobalt de Majorelle est iconique et la flore tropicale qui l'entoure est d'une richesse incroyable. Un havre de beauté au cœur de Marrakech.", "date": "2026-04-08T10:34:01.491765" },
+      { "author": "Marie P.", "rating": 5, "comment": "Havre de paix et de verdure au cœur agité de Marrakech! Le design des jardins est impeccable et la collection du musée berbère est d'une grande richesse culturelle.", "date": "2026-03-17T10:34:01.491778" },
+      { "author": "Karim A.", "rating": 5, "comment": "Le site le plus visité de Marrakech et à juste titre! Les jardins botaniques sont parmi les plus beaux que j'aie vus. Les couleurs et la sérénité du lieu sont apaisantes.", "date": "2026-04-20T10:34:01.491779" },
+      { "author": "Jessica L.", "rating": 4, "comment": "Très beau site même s'il est assez fréquenté. Les bambous et nénuphars créent une atmosphère unique. Un investissement culturel et esthétique qui en vaut vraiment la peine.", "date": "2026-04-12T10:34:01.491780" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Octobre à avril - Jardin botanique agréable avec températures douces (15-25°C). Fleurs en épanouissement au printemps. Éviter juillet-août (chaleur intense de Marrakech, moins agréable pour les jardins)."
+  },
+  {
+    "id": 53,
+    "name": "Randonnée Jbel Toubkal",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "aventure",
+    "rating": 4.7,
+    "image": "https://i0.wp.com/www.markhorrell.com/wp-content/uploads/DSC03898.jpg?fit=1200%2C900&ssl=1",
+    "description": "Ascension du Jbel Toubkal (4 167 m), point culminant de l'Afrique du Nord, au départ d'Imlil (1h30 de Marrakech). Trek guidé de 2 jours avec nuit en refuge, traversée de villages berbères. Incontournable pour les amateurs de randonnée.",
+    "reviews": [
+      { "author": "Hans M.", "rating": 5, "comment": "Atteindre le sommet de l'Afrique du Nord est une expérience unique! Les vues depuis le refuge et le sommet sur l'Atlas sont spectaculaires. Un trek exigeant mais absolument mémorable.", "date": "2026-03-26T10:34:01.491803" },
+      { "author": "Sophie D.", "rating": 5, "comment": "Expérience de trek extraordinaire sur le point culminant de l'Afrique du Nord! La nuit en refuge sous les étoiles de l'Atlas est un souvenir gravé pour toujours.", "date": "2026-01-23T10:34:01.491817" },
+      { "author": "Ahmed H.", "rating": 5, "comment": "La randonnée légendaire du Maroc! 4167 mètres d'altitude à travers des villages berbères authentiques et des paysages de haute montagne à couper le souffle. Un défi accessible mais exigeant.", "date": "2026-04-08T10:34:01.491818" },
+      { "author": "Charlotte R.", "rating": 4, "comment": "Magnifique trek pour les amateurs de montagne. Une bonne condition physique est indispensable mais les paysages grandioses de l'Atlas récompensent largement l'effort fourni.", "date": "2026-04-22T10:34:01.491819" }
+    ],
+    "price": 0,
+    "difficulty": "Expert",
+    "bestPeriod": "Mai à octobre - Sommets libres de neige importante et conditions de randonnée optimales. Températures supportables en altitude (5-15°C la nuit). Éviter novembre-avril (neige, routes fermées)."
+  },
+  {
+    "id": 54,
+    "name": "Vol en montgolfière au lever du soleil",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "aventure",
+    "rating": 4.8,
+    "image": "https://adventure-balloon.com/wp-content/uploads/2026/03/Marrakech-Hot-air-Balloon.png",
+    "description": "Vol magique d'une heure au lever du soleil au-dessus des palmeraies et villages berbères avec vue sur l'Atlas. Transfert inclus.",
+    "reviews": [
+      { "author": "Magda W.", "rating": 5, "comment": "Vol magique et inoubliable au lever du soleil au-dessus des palmeraies de Marrakech! Observer l'Atlas se colorer à l'aube depuis la nacelle est une expérience hors du commun.", "date": "2026-04-09T10:34:01.491842" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Expérience surréaliste et émouvante! Flotter silencieusement au-dessus de Marrakech au lever du soleil offre des perspectives et des photos absolument spectaculaires.", "date": "2026-02-09T10:34:01.491855" },
+      { "author": "Philippe M.", "rating": 5, "comment": "C'est tout simplement du rêve! Survoler les palmeraies et les villages berbères avec l'Atlas en toile de fond est l'une des plus belles expériences touristiques que j'aie vécues au Maroc.", "date": "2026-03-25T10:34:01.491856" },
+      { "author": "Lisa K.", "rating": 4, "comment": "Vol très beau même s'il est relativement court. Les conditions météo sont déterminantes pour profiter pleinement du panorama. Les photos depuis la nacelle sont vraiment uniques.", "date": "2026-04-18T10:34:01.491857" }
+    ],
+    "price": 350,
+    "difficulty": "Facile",
+    "bestPeriod": "Octobre à avril - Conditions météorologiques stables et agréables pour le vol (15-25°C). Ciel dégagé offrant des vues magnifiques. Éviter juillet-août (turbulences, brume thermique intense)."
+  },
+  {
+    "id": 55,
+    "name": "Atelier de cuisine marocaine chez l'habitant",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "atelier",
+    "rating": 4.9,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/12/12/2d/cooking-school-private.jpg?w=1200&h=-1&s=1",
+    "description": "Cours de cuisine authentique dans un riad ou maison marocaine. Tagine, couscous, pastilla et pâtisseries. Déjeuner inclus.",
+    "reviews": [
+      { "author": "Giulia C.", "rating": 5, "comment": "Atelier de cuisine incroyable dans une maison marocaine authentique! J'ai appris à préparer un tagine et une pastilla comme une vraie Marrakchie. Le déjeuner partagé avec la famille était touchant.", "date": "2026-04-18T10:34:01.491889" },
+      { "author": "Emma W.", "rating": 5, "comment": "Expérience culinaire exceptionnelle dans un riad traditionnel. Apprendre les épices, les techniques de cuisson et les secrets des recettes marocaines directement chez l'habitant est irremplaçable.", "date": "2026-03-22T10:34:01.491908" },
+      { "author": "Rachid B.", "rating": 5, "comment": "Atelier convivial et très instructif! Préparer un couscous à la main et cuire au feu de bois traditionnel dans une vraie cuisine marocaine est une expérience qu'on n'oublie pas.", "date": "2026-02-28T10:34:01.491921" },
+      { "author": "Victoria S.", "rating": 5, "comment": "Le meilleur atelier culinaire que j'aie suivi au Maroc! Les recettes transmises de génération en génération par la famille hôte sont d'une authenticité et d'une saveur remarquables.", "date": "2026-04-24T10:34:01.491922" }
+    ],
+    "price": 350,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Cours d'initiation en classe couverte. Timing flexible selon votre disponibilité, peu affecté par le climat."
+  },
+  {
+    "id": 56,
+    "name": "Musée Yves Saint Laurent",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.9,
+    "image": "https://images.adsttc.com/media/images/5d8a/2018/284d/d167/6d00/0086/large_jpg/SKO-MSL-FINI-001_Facade.jpg?1569333246",
+    "description": "Visite du superbe musée dédié à Yves Saint Laurent avec ses collections permanentes et son magnifique jardin.",
+    "reviews": [
+      { "author": "Florence B.", "rating": 5, "comment": "Musée architectural magnifique entièrement dédié à l'univers d'Yves Saint Laurent! Les collections de haute couture sont exceptionnelles et le jardin design est une œuvre en soi.", "date": "2026-03-30T10:34:01.491947" },
+      { "author": "Laurent P.", "rating": 5, "comment": "L'exposition retrace avec beaucoup de finesse le parcours et l'œuvre d'Yves Saint Laurent, et son lien profond avec le Maroc. Une visite culturelle d'une grande élégance.", "date": "2026-03-09T10:34:01.491960" },
+      { "author": "Aisha K.", "rating": 5, "comment": "Superbe musée dont l'architecture est elle-même une œuvre d'art! Les collections de mode historiques et l'atmosphère sereine du lieu en font une visite culturelle incontournable à Marrakech.", "date": "2026-04-14T10:34:01.491961" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Musée climatisé retraçant l'histoire maroco-américaine. Activité intérieure idéale pour tous les climats, peu affectée par les saisons."
+  },
+  {
+    "id": 57,
+    "name": "Cascades d'Ouzoud - Randonnée & Excursion",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.7,
+    "image": "https://cdn-imgix.headout.com/media/images/5bb9babf-cc17-4b49-b458-1481e73dcc7e-1756895492783-308038.jpg?w=1041.6000000000001&h=651&crop=faces&auto=compress%2Cformat&fit=min",
+    "description": "Excursion d'une journée aux cascades d'Ouzoud. Randonnée, baignade et observation des singes.",
+    "reviews": [
+      { "author": "Sophie R.", "rating": 5, "comment": "Cascades magnifiques et randonnée très agréable! La baignade dans les bassins naturels au pied des chutes est rafraîchissante et les macaques qui se balancent dans les oliviers ajoutent une touche magique.", "date": "2026-03-22T10:34:01.491985" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Ouzoud vaut vraiment le déplacement depuis Marrakech! Les cascades sont spectaculaires et observer les singes macaques en liberté dans leur environnement verdoyant est un vrai bonheur.", "date": "2026-02-18T10:34:01.492004" },
+      { "author": "Mohamed K.", "rating": 5, "comment": "Journée d'excursion parfaite! La baignade dans la piscine naturelle au pied des cascades est inoubliable. La nature luxuriante autour des chutes contraste magnifiquement avec l'aridité de la région.", "date": "2026-04-05T10:34:01.492005" },
+      { "author": "Amanda T.", "rating": 4, "comment": "Très belles cascades et randonnée agréable dans un paysage verdoyant. En semaine le matin, le site est peu fréquenté et on profite pleinement du cadre naturel exceptionnel.", "date": "2026-04-11T10:34:01.492006" }
+    ],
+    "price": 0,
+    "difficulty": "Moyen",
+    "bestPeriod": "Avril à juin et septembre à novembre - Températures idéales (15-28°C) pour randonnée et baignade. Eau des cascades agréable. Éviter juillet-août (chaleur excessive, peu d'eau dans cascades)."
+  },
+  {
+    "id": 58,
+    "name": "Jamaa el Fna",
+    "city": "Marrakech",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.5,
+    "image": "../images/medina-of-marrakech.jpg",
+    "description": "Marche en groupe dans la célèbre place de Marrakech, avec ses charmeurs de serpents, vendeurs de jus d'orange et artistes de rue. Expérience incontournable pour s'imprégner de l'ambiance unique de la médina.",
+    "reviews": [
+      { "author": "Marc T.", "rating": 4, "comment": "Expérience immersive et fascinante! L'ambiance de la place Jamaa el Fna avec ses conteurs, musiciens et charmeurs de serpents est unique au monde. Un spectacle vivant et authentique.", "date": "2026-03-16T10:34:01.492029" },
+      { "author": "Youssef H.", "rating": 5, "comment": "La place Jamaa el Fna est le cœur battant de Marrakech! Le soir, quand les stands de restauration s'allument et que les musiciens envahissent la place, l'atmosphère est absolument électrisante.", "date": "2026-02-25T10:34:01.492044" },
+      { "author": "Karim Z.", "rating": 5, "comment": "Incontournable à Marrakech! La diversité des spectacles de rue, les odeurs des épices et l'énergie unique de cette place classée UNESCO créent une expérience sensorielle inoubliable.", "date": "2026-03-30T10:34:01.492057" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Visite dans la légendaire place Jamaa el Fna animée toute l'année. Ambiance unique quelle que soit la saison, intense en été en fin d'après-midi."
+  },
+  {
+    "id": 63,
+    "name": "Visite Tanneries Chouara",
+    "city": "Fès",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.8,
+    "image": "https://farm5.staticflickr.com/4630/40563386361_b0c5392719_b.jpg",
+    "description": "Les tanneries Chouara, fondées au XIe siècle, sont les plus anciennes et les plus grandes tanneries en activité au monde. Visite depuis les terrasses des maroquineries environnantes avec vue plongeante sur les cuves de teinture colorées.",
+    "reviews": [
+      { "author": "Youssef H.", "rating": 5, "comment": "Les tanneries Chouara sont un spectacle visuel saisissant! Observer depuis les terrasses les cuves de teinture colorées et les artisans au travail selon des techniques millénaires est une expérience hors du commun.", "date": "2026-03-12T10:34:01.492306" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Visite incroyable dans les plus anciennes tanneries du monde! Le panorama plongeant sur les cuves colorées et l'histoire de ce lieu fondé au XIe siècle sont absolument fascinants.", "date": "2026-01-27T10:34:01.492321" },
+      { "author": "Marc T.", "rating": 4, "comment": "Visite très intéressante et unique. Observer les tanneurs travailler le cuir selon des méthodes ancestrales depuis les terrasses en surplomb est une expérience visuelle et culturelle marquante.", "date": "2026-02-07T10:34:01.492335" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Tanneries en activité permanente. Visite guidée organisant bien les flux. Moins étouffant en heures fraîches (matin)."
+  },
+  {
+    "id": 64,
+    "name": "Visite Médersa Bou Inania",
+    "city": "Fès",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.7,
+    "image": "https://www.moroccotriptime.com/wp-content/uploads/2024/10/Bou-Inania-Madrasa-4.jpg",
+    "description": "Chef-d'œuvre de l'architecture mérinide du XIVe siècle, la médersa Bou Inania est la seule mosquée de Fès ouverte aux non-musulmans. Stuc ciselé, zelliges polychromes et boiseries en cèdre d'une finesse extraordinaire.",
+    "reviews": [
+      { "author": "Marc T.", "rating": 4, "comment": "Architecture mérinide époustouflante! Le stuc ciselé, les zelliges polychromes et les boiseries en cèdre atteignent ici un niveau de raffinement rarement égalé dans l'artisanat marocain.", "date": "2026-03-01T10:34:01.492364" },
+      { "author": "Youssef H.", "rating": 5, "comment": "La médersa Bou Inania est un chef-d'œuvre absolu du XIVe siècle! Être le seul monument de Fès ouvert aux non-musulmans en fait une occasion unique de découvrir l'art architectural islamique de l'intérieur.", "date": "2026-03-21T10:34:01.492379" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Musée architectural exceptionnel. Édifice du XIVe siècle avec intérieurs fraîchement climatisés. Visite enrichissante peu affectée par le climat."
+  },
+  {
+    "id": 65,
+    "name": "Médina Fès el-Bali",
+    "city": "Fès",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.9,
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_iimPztmeJKL8a7TRegk3eTXt2bgPdJgDWJXH3k1H7gFC0hR_CxxLfvROLRam6_6U6OTMWICxdDKGFJVL0TT4bp4Tkm9LHkJpOsd2pkph87MxHL-e9RuuBgUOYyjog8Uqcgcj0w=w810-h468-n-k-no",
+    "description": "Visite dans le labyrinthe de 9 400 ruelles de Fès el-Bali, la plus grande zone piétonne du monde classée UNESCO. Passage par les souks des teinturiers, des ferronniers, des brodeurs et la célèbre place Nejjarine.",
+    "reviews": [
+      { "author": "Nadia S.", "rating": 5, "comment": "Se perdre dans le labyrinthe des 9400 ruelles de Fès el-Bali est une expérience unique au monde! Chaque détour révèle un souk, un atelier d'artisan ou une fontaine médiévale. La médina vivante la plus authentique du Maroc.", "date": "2026-03-29T10:34:01.492406" },
+      { "author": "Youssef H.", "rating": 5, "comment": "Fès el-Bali est la plus grande zone piétonne du monde et un voyage dans le temps! Les souks spécialisés des teinturiers, ferronniers et brodeurs témoignent d'un savoir-faire ancestral encore vivant.", "date": "2026-02-15T10:34:01.492421" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Mars à mai et septembre à novembre - Températures modérées (18-28°C) idéales pour explorer les médinas sans surcharge touristique. Éviter juillet-août (foule, chaleur intense, moins confortable)."
+  },
+  {
+    "id": 66,
+    "name": "Atelier de zellige et poterie fassi",
+    "city": "Fès",
+    "category": "activite",
+    "activityType": "atelier",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=500&h=350&fit=crop",
+    "description": "Initiation à l'art du zellige et de la poterie dans un atelier artisanal de la médina. Maîtres artisans transmettant des techniques ancestrales, création d'une pièce personnalisée à emporter. Durée : 2 à 3 heures.",
+    "reviews": [
+      { "author": "Nadia S.", "rating": 5, "comment": "Initiation au zellige incroyable dans un vrai atelier de la médina! Apprendre à couper et assembler les carreaux colorés selon les motifs géométriques traditionnels fassis est un exercice aussi précis que fascinant.", "date": "2026-03-21T10:34:01.492448" },
+      { "author": "Marc T.", "rating": 4, "comment": "Atelier très intéressant qui permet de comprendre la complexité et la patience que demande l'art du zellige. Repartir avec sa propre pièce réalisée à la main est une belle satisfaction.", "date": "2026-02-08T10:34:01.492464" },
+      { "author": "Emma W.", "rating": 4, "comment": "Expérience artisanale enrichissante au cœur de la médina de Fès. Observer et pratiquer ces techniques ancestrales de poterie et de zellige transmises de maître en apprenti donne un nouveau regard sur l'artisanat marocain.", "date": "2026-01-25T10:34:01.492478" }
+    ],
+    "price": 350,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Initiation aux techniques artisanales traditionnelles. Atelier couvert, peu affecté par le climat, créative expérience accessible toute l'année."
+  },
+  {
+    "id": 71,
+    "name": "Cours de kitesurf et windsurf Essaouira",
+    "city": "Essaouira",
+    "category": "activite",
+    "activityType": "sport",
+    "rating": 4.7,
+    "image": "https://kiteworldwide.com/kww-media/pages/essaouira-grid-plaeholder-please-change-1_YFcXQRl_1200x800.jpg",
+    "description": "Essaouira est l'une des capitales mondiales du windsurf et du kitesurf grâce à ses alizés permanents. Plusieurs écoles agréées proposent des cours pour débutants et confirmés sur la plage d'Essaouira, à 3 km de la médina.",
+    "reviews": [
+      { "author": "Youssef H.", "rating": 5, "comment": "Les conditions de vent à Essaouira sont parfaites pour le kitesurf! Les alizés permanents et l'immensité de la plage créent un terrain de jeu idéal. J'ai progressé considérablement en seulement quelques sessions.", "date": "2026-04-19T10:34:01.492712" },
+      { "author": "Marc T.", "rating": 4, "comment": "Essaouira mérite bien sa réputation de capitale du windsurf! Le vent est au rendez-vous presque toute l'année et la plage offre suffisamment d'espace pour pratiquer en toute sécurité.", "date": "2026-03-18T10:34:01.492725" }
+    ],
+    "price": 350,
+    "difficulty": "Moyen",
+    "bestPeriod": "Avril à septembre - Alizés stables et vent constant pour windsurfer et kitesurf. Température de l'eau agréable (16-22°C). Éviter octobre-mars avec conditions moins prévisibles."
+  },
+  {
+    "id": 72,
+    "name": "Visite Remparts et Skala de la Ville",
+    "city": "Essaouira",
+    "category": "activite",
+    "activityType": "culture",
+    "rating": 4.6,
+    "image": "https://lp-cms-production.imgix.net/2019-06/9072bf3981b32f81e179f041932d8fcf-skala-de-la-ville.jpg?w=1200&auto=format",
+    "description": "Promenade sur les remparts du XVIIIe siècle avec les canons portugais alignés face à l'Atlantique. La Skala de la Ville offre une des plus belles vues du Maroc sur l'océan et la médina. Site classé UNESCO depuis 2001.",
+    "reviews": [
+      { "author": "Marc T.", "rating": 4, "comment": "Promenade très agréable sur les remparts du XVIIIe siècle! Les canons portugais alignés face à l'Atlantique et la vue sur la médina depuis la Skala de la Ville sont parmi les plus beaux panoramas du Maroc.", "date": "2026-02-12T10:34:01.492751" },
+      { "author": "Karim Z.", "rating": 5, "comment": "Les remparts d'Essaouira au coucher du soleil sont magiques! La lumière dorée sur l'Atlantique et les vieilles pierres du XVIIIe siècle crée une atmosphère inoubliable. Un souvenir gravé dans ma mémoire.", "date": "2026-03-12T10:34:01.492765" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Remparts historiques côtiers avec vues panoramiques constantes. Site de photographie idéal au coucher du soleil toute l'année."
+  },
+  {
+    "id": 73,
+    "name": "Atelier marqueterie thuya",
+    "city": "Essaouira",
+    "category": "activite",
+    "activityType": "atelier",
+    "rating": 4.5,
+    "image": "https://lesvillaskara.com/wp-content/uploads/2025/10/Decouvrir-lartisanat-dEssaouira.jpg",
+    "description": "Initiation à l'art de la marqueterie en bois de thuya, spécialité unique d'Essaouira. Dans un atelier artisanal de la médina, un maître ébéniste enseigne les techniques de sculpture et d'incrustation. Pièce réalisée à emporter.",
+    "reviews": [
+      { "author": "Karim Z.", "rating": 5, "comment": "Atelier de marqueterie en thuya absolument fascinant! Travailler ce bois aux reflets dorés et à l'odeur envoûtante sous la direction d'un maître artisan d'Essaouira est une expérience artisanale et sensorielle mémorable.", "date": "2026-02-02T10:34:01.492793" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Expérience artisanale incroyable et unique à Essaouira! Apprendre les techniques de sculpture et d'incrustation du thuya directement auprès d'un ébéniste local est une plongée dans un savoir-faire ancestral rare.", "date": "2026-03-30T10:34:01.492805" },
+      { "author": "Youssef H.", "rating": 5, "comment": "La marqueterie en bois de thuya est la spécialité absolue d'Essaouira et cet atelier la met magnifiquement en valeur! Repartir avec une pièce réalisée de ses propres mains est une fierté et un souvenir unique.", "date": "2026-04-05T10:34:01.492823" }
+    ],
+    "price": 350,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Initiation à l'art du bois de thuya en atelier. Technique ancestrale enseignée en environnement contrôlé, peu affecté par le climat."
+  },
+  {
+    "id": 77,
+    "name": "Ski à Michlifen",
+    "city": "Ifrane",
+    "category": "activite",
+    "activityType": "sport",
+    "rating": 4.5,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/58/90/19/photo1jpg.jpg?w=1200&h=-1&s=1",
+    "description": "Station de ski de Michlifen, à 8 km d'Ifrane, seule station de ski du Maroc avec remontées mécaniques. Pistes pour tous niveaux, location de matériel sur place et école de ski. Ouverture de décembre à mars selon l'enneigement.",
+    "reviews": [
+      { "author": "Youssef H.", "rating": 5, "comment": "Skier au Maroc à Michlifen est une expérience vraiment surprenante et unique! Les pistes offrent de bonnes sensations et le cadre de la forêt de cèdres enneigée est d'une beauté inattendue.", "date": "2026-02-12T10:34:01.492959" },
+      { "author": "Karim Z.", "rating": 5, "comment": "Michlifen est une station magique et insolite! Descendre les pistes avec la forêt de cèdres comme décor et les sommets du Moyen Atlas en toile de fond est une expérience de ski vraiment mémorable.", "date": "2026-02-11T10:34:01.492972" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Découvrir la seule station de ski du Maroc est une expérience incroyable! Les pistes sont accessibles à tous les niveaux et l'enneigement cette saison était généreux. Un Maroc inattendu et fascinant.", "date": "2026-02-17T10:34:01.492982" }
+    ],
+    "price": 350,
+    "difficulty": "Moyen",
+    "bestPeriod": "Décembre à mars - Période d'enneigement à Michlifen. Conditions optimales pour le ski alpin. Ouverture variable selon l'enneigement. Station fermée mai-novembre en général."
+  },
+  {
+    "id": 78,
+    "name": "Observation singes magots forêt de cèdres",
+    "city": "Ifrane",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.8,
+    "image": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/1924/image/s1300x1300/Barbary-macaque-forest-Photo_George_Turner__copyright_IFAW.jpg",
+    "description": "Excursion dans la forêt de cèdres de l'Azrou, à 17 km d'Ifrane, pour observer les macaques de Barbarie (singes magots) en liberté dans leur habitat naturel. L'une des rares populations sauvages de cette espèce menacée au monde.",
+    "reviews": [
+      { "author": "Emma W.", "rating": 4, "comment": "Observation très enrichissante des macaques de Barbarie en liberté dans leur forêt de cèdres naturelle. Ces singes magots, espèce menacée, évoluent si librement qu'on oublie vite qu'on est dans un espace naturel protégé.", "date": "2026-02-16T10:34:01.493007" },
+      { "author": "Youssef H.", "rating": 5, "comment": "Observer les singes magots se déplacer librement dans les cèdres centenaires de l'Azrou est une expérience nature rare et émouvante! Ces primates menacés semblent complètement à l'aise avec la présence humaine.", "date": "2026-03-09T10:34:01.493020" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Accessible toute l'année. Observation de faune sauvage dans forêt de cèdres tempérée. Les singes magots actifs toute l'année. Moins fréquenté en hiver."
+  },
+  {
+    "id": 79,
+    "name": "Randonnée Parc National d'Ifrane",
+    "city": "Ifrane",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.6,
+    "image": "https://www.alltrails.com/mugen/image/location-app-router?url=https%3A%2F%2Fimages.alltrails.com%2FeyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNjQzMTkzNjgvMjg4ZGEzYTRjNDU0YjMyM2FiNGIwZWJjZTA2ODMwZDYuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoiMTA4MCIsImhlaWdodCI6IjcwMCIsImZpdCI6ImNvdmVyIn0sInJvdGF0ZSI6bnVsbCwianBlZyI6eyJ0cmVsbGlzUXVhbnRpc2F0aW9uIjp0cnVlLCJvdmVyc2hvb3REZXJpbmciOnRydWUsIm9wdGltaXNlU2NhbnMiOnRydWUsInF1YW50aXNhdGlvblRhYmxlIjozfX19&w=3840&q=90",
+    "description": "Randonnées balisées dans le parc national d'Ifrane (51 000 hectares), forêt de cèdres, chênes verts et genévriers. Faune sauvage : singes magots, cerfs de Barbarie, renards et nombreux rapaces. Guides locaux disponibles à l'entrée du parc.",
+    "reviews": [
+      { "author": "Marc T.", "rating": 4, "comment": "Randonnée très agréable dans le parc national d'Ifrane! Les sentiers balisés traversent des paysages de forêts de cèdres et de chênes verts magnifiques. Aperçu de cerfs de Barbarie en chemin, un moment rare.", "date": "2026-03-05T10:34:01.493045" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Randonner dans ces 51 000 hectares de forêt préservée est une expérience nature exceptionnelle! La diversité des paysages entre cèdres, genévriers et zones humides rend chaque kilomètre de sentier différent.", "date": "2026-01-23T10:34:01.493057" },
+      { "author": "Emma W.", "rating": 4, "comment": "Parc national d'une richesse écologique remarquable! Observer singes magots, rapaces et cerfs de Barbarie dans leur habitat naturel au fil des sentiers balisés est une randonnée aussi belle que instructive.", "date": "2026-01-23T10:34:01.493077" }
+    ],
+    "price": 0,
+    "difficulty": "Moyen",
+    "bestPeriod": "Avril à juin et septembre à novembre - Températures idéales (15-25°C) pour randonnée en montagne. Observation des oiseaux migrateurs au printemps et automne. Éviter juillet-août (chaleur)."
+  },
+  {
+    "id": 80,
+    "name": "Visite lac Dayet Aoua et Dayet Hachlaf",
+    "city": "Ifrane",
+    "category": "activite",
+    "activityType": "nature",
+    "rating": 4.5,
+    "image": "https://www.voyage-maroc.com/cdn/ma-public/dayet_aoua_titre.jpg",
+    "description": "Circuit des lacs du Moyen Atlas au départ d'Ifrane. Dayet Aoua et Dayet Hachlaf sont des lacs naturels entourés de forêts et fréquentés par des centaines d'espèces d'oiseaux migrateurs. Observation ornithologique et pique-nique au bord de l'eau.",
+    "reviews": [
+      { "author": "Marc T.", "rating": 4, "comment": "Circuit des lacs du Moyen Atlas vraiment magnifique! Les eaux calmes de Dayet Aoua entourées de forêts de cèdres offrent un cadre de pique-nique et d'observation ornithologique exceptionnel.", "date": "2026-03-26T10:34:01.493105" },
+      { "author": "Karim Z.", "rating": 5, "comment": "Les lacs Dayet Aoua et Dayet Hachlaf sont des joyaux naturels méconnus du Moyen Atlas! Observer les centaines d'oiseaux migrateurs sur ces eaux paisibles au coucher du soleil est un spectacle magique.", "date": "2026-03-17T10:34:01.493120" },
+      { "author": "Nadia S.", "rating": 5, "comment": "Promenade ornithologique incroyable autour des lacs naturels d'Ifrane! La diversité des espèces d'oiseaux migrateurs observées au bord de l'eau dépasse toutes les attentes. Un site naturel d'une sérénité absolue.", "date": "2026-02-06T10:34:01.493105" }
+    ],
+    "price": 0,
+    "difficulty": "Facile",
+    "bestPeriod": "Mars à mai et octobre à novembre - Températures modérées (15-22°C) idéales pour observer les oiseaux migrateurs. Lacs attrayants au printemps et automne. Éviter juillet-août (moins de biodiversité)."
+  }
+]

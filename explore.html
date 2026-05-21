@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Découvrez les villes du Maroc — histoire, culture et paysages.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/city-detail.css">
+  <link rel="stylesheet" href="css/listing.css">
+  <title>Explorer les villes — DiscoverMaroc</title>
+</head>
+<body>
+
+  <div class="logo-container">
+    <a href="index.html" class="logo"><img src="images/MLOGO.png" alt="DiscoverMaroc"></a>
+  </div>
+
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="explore.html" class="active">Explorer</a>
+      <a href="hotels.html">Hébergements</a>
+      <a href="restaurants.html">Restaurants</a>
+      <a href="activites.html">Activités</a>
+      <a href="favorites.html">Favoris</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="city-hero">
+    <div class="carousel" id="main-carousel">
+      <div class="carousel-track" id="carousel-track"></div>
+      <button class="carousel-btn prev">&lt;</button>
+      <button class="carousel-btn next">&gt;</button>
+      <div class="carousel-dots" id="carousel-dots"></div>
+    </div>
+    <div class="hero-overlay">
+      <div class="hero-content">
+        <p class="hero-region" id="city-region"></p>
+        <h1 class="hero-title" id="city-name"></h1>
+        <div class="hero-rule"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ALL CITIES GRID -->
+  <div class="cities-grid-section" id="cities-grid-section" style="display:none;">
+    <div class="cities-intro">
+      <p class="cities-eyebrow">Destinations</p>
+      <h1 class="cities-title">Le Maroc,<br><em>ville après ville</em></h1>
+      <p class="cities-subtitle">Chaque cité raconte une histoire millénaire. Choisissez la vôtre.</p>
+    </div>
+    <div class="cities-grid" id="cities-grid"></div>
+  </div>
+
+  <!-- CITY DETAIL -->
+  <div class="city-container">
+
+    <div class="city-lead">
+      <p id="city-description"></p>
+    </div>
+
+    <div class="city-pillars">
+      <div class="pillar">
+        <span class="pillar-label">Localisation</span>
+        <p id="about-localisation"></p>
+      </div>
+      <div class="pillar">
+        <span class="pillar-label">Ambiance</span>
+        <p id="about-ambiance"></p>
+      </div>
+      <div class="pillar">
+        <span class="pillar-label">Histoire</span>
+        <p id="about-importance"></p>
+      </div>
+      <div class="pillar">
+        <span class="pillar-label">L'essentiel</span>
+        <p id="about-special"></p>
+      </div>
+    </div>
+
+    <!-- CULTURE -->
+    <div class="chapter">
+      <div class="chapter-header">
+        <h2 class="chapter-title">Culture &amp; Vie Locale</h2>
+      </div>
+      <div class="culture-grid">
+        <div class="culture-item">
+          <h3 class="entry-title">Cuisine</h3>
+          <p id="culture-cuisine"></p>
+        </div>
+        <div class="culture-item">
+          <h3 class="entry-title">Traditions</h3>
+          <p id="culture-traditions"></p>
+        </div>
+        <div class="culture-item">
+          <h3 class="entry-title">Style de Vie</h3>
+          <p id="culture-style"></p>
+        </div>
+        <div class="culture-item">
+          <h3 class="entry-title">Langue</h3>
+          <p id="culture-langue"></p>
+        </div>
+        <div class="culture-item">
+          <h3 class="entry-title">Musique</h3>
+          <p id="culture-musique"></p>
+        </div>
+        <div class="culture-item">
+          <h3 class="entry-title">Artisanat</h3>
+          <p id="culture-artisanat"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ÉVÉNEMENTS -->
+    <div class="chapter">
+      <div class="chapter-header">
+        <h2 class="chapter-title">Lieux &amp; Événements</h2>
+      </div>
+      <div class="events-trio">
+        <div class="events-block">
+          <h3 class="events-block-title">Événements</h3>
+          <ul id="evenements-list"></ul>
+        </div>
+        <div class="events-block">
+          <h3 class="events-block-title">Places</h3>
+          <ul id="places-list"></ul>
+        </div>
+        <div class="events-block">
+          <h3 class="events-block-title">Monuments</h3>
+          <ul id="monuments-list"></ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- PRATIQUE -->
+    <div class="chapter">
+      <div class="chapter-header">
+        <h2 class="chapter-title">Informations Pratiques</h2>
+      </div>
+
+      <div class="practical-trio">
+        <div class="practical-block">
+          <span class="practical-label">Meilleure période</span>
+          <p id="info-meilleure"></p>
+        </div>
+        <div class="practical-block">
+          <span class="practical-label">Période à éviter</span>
+          <p id="info-eviter"></p>
+        </div>
+        <div class="practical-block">
+          <span class="practical-label">Températures</span>
+          <p id="info-temperature"></p>
+        </div>
+      </div>
+
+      <div class="budget-chapter">
+        <p class="sub-eyebrow">Budget estimé par jour</p>
+        <div class="budget-line">
+          <div class="budget-col">
+            <span class="budget-label">Hôtel / nuit</span>
+            <strong id="budget-hotel"></strong>
+          </div>
+          <div class="budget-col">
+            <span class="budget-label">Repas</span>
+            <strong id="budget-repas"></strong>
+          </div>
+          <div class="budget-col">
+            <span class="budget-label">Transport</span>
+            <strong id="budget-transport"></strong>
+          </div>
+          <div class="budget-col budget-col--total">
+            <span class="budget-label">Total / jour</span>
+            <strong id="budget-jour"></strong>
+          </div>
+        </div>
+      </div>
+
+      <div class="transport-chapter">
+        <p class="sub-eyebrow">Comment s'y rendre</p>
+        <div class="transport-grid">
+          <div class="transport-item" id="transport-from-casablanca"></div>
+          <div class="transport-item" id="transport-from-city1"></div>
+          <div class="transport-item" id="transport-from-city2"></div>
+          <div class="transport-item" id="transport-airport"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- AVIS -->
+    <div class="chapter chapter--reviews">
+      <div class="chapter-header">
+        <h2 class="chapter-title">Avis des Voyageurs</h2>
+        <a href="#" class="review-cta-btn" id="review-cta-link">Laisser un avis</a>
+      </div>
+      <div class="reviews-summary" id="reviews-summary">
+        <div class="reviews-score" id="reviews-score">—</div>
+        <div class="reviews-score-detail">
+          <div class="reviews-stars" id="reviews-stars"></div>
+          <span class="reviews-count" id="reviews-count"></span>
+        </div>
+      </div>
+      <div class="reviews-grid" id="reviews-grid"></div>
+    </div>
+
+  </div>
+
+  <!-- MODAL AVIS -->
+  <div class="modal-overlay" id="modal-overlay"></div>
+  <div class="review-modal" id="review-modal">
+    <div class="modal-header">
+      <h2>Laisser un avis</h2>
+      <button class="modal-close" id="modal-close">&times;</button>
+    </div>
+    <form class="review-form" id="review-form">
+      <div class="form-group">
+        <label for="review-name">Votre nom</label>
+        <input type="text" id="review-name" required>
+      </div>
+
+      <div class="form-group">
+        <label>Votre note</label>
+        <div class="star-picker" id="star-picker">
+          <button class="star-btn" data-value="1" type="button">★</button>
+          <button class="star-btn" data-value="2" type="button">★</button>
+          <button class="star-btn" data-value="3" type="button">★</button>
+          <button class="star-btn" data-value="4" type="button">★</button>
+          <button class="star-btn" data-value="5" type="button">★</button>
+        </div>
+        <input type="hidden" id="review-rating" value="0">
+      </div>
+
+      <div class="form-group">
+        <label for="review-comment">Votre avis</label>
+        <textarea id="review-comment" rows="5" required></textarea>
+      </div>
+
+      <div id="form-msg"></div>
+      <button type="submit" class="btn btn-primary" style="width: 100%;">Publier</button>
+    </form>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <img src="images/MLOGO.png" alt="DiscoverMaroc" style="height: 50px; margin-bottom: 8px;">
+        <div class="footer-tagline">Découvrez le Maroc authentique</div>
+      </div>
+      <div class="footer-links">
+        <a href="hotels.html">Hébergements</a>
+        <a href="restaurants.html">Restaurants</a>
+        <a href="activites.html">Activités</a>
+      </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">© 2026 DiscoverMaroc — Tous droits réservés</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/explore.js"></script>
+</body>
+</html>

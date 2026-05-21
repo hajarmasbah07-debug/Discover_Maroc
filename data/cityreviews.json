@@ -1,0 +1,58 @@
+{
+  "marrakech": [
+    { "author": "Sophie Martin", "rating": 5, "comment": "Marrakech est tout simplement magique ! La place Jemaa el-Fna, les jardins Majorelle, l'atmosphère... Je suis tombée amoureuse de cette ville !", "date": "2024-04-10" },
+    { "author": "Ahmed Hassan", "rating": 5, "comment": "Ma ville natale qui me surprend toujours. La nouvelle génération la redécouvre et l'aime autant que moi.", "date": "2024-03-28" },
+    { "author": "Maria Garcia", "rating": 4, "comment": "Extraordinaire ! Un peu touristique dans la médina, mais suffisant pour que ça reflète sa beauté authentique.", "date": "2024-02-15" },
+    { "author": "Thomas Schmidt", "rating": 5, "comment": "Incroyable fusion entre l'ancien et le moderne. Les couchers de soleil sur l'Atlas sont unforgettable.", "date": "2024-01-20" }
+  ],
+  "fes": [
+    { "author": "Isabelle Leclerc", "rating": 5, "comment": "Fès est un voyage à travers le temps. La médina est un dédale sublime, j'aurais pu y passer des jours entiers.", "date": "2024-04-05" },
+    { "author": "Youssef Benali", "rating": 5, "comment": "Fès el-Bali est le cœur du Maroc. L'histoire dans chaque coin de rue, l'artisanat authentique partout.", "date": "2024-03-12" },
+    { "author": "Laura Berlin", "rating": 4, "comment": "Magnifique mais intense. Il faut prendre son temps pour vraiment apprécier la richesse de la ville.", "date": "2024-02-08" },
+    { "author": "Marco Rossi", "rating": 5, "comment": "Les tanneries Chouara sont spectaculaires. Une ville que j'emmènerai mes enfants visiter un jour.", "date": "2024-01-15" }
+  ],
+  "chefchaouen": [
+    { "author": "Amelie Fontaine", "rating": 5, "comment": "La Perle Bleue vit à la hauteur de sa réputation. Cette teinte bleue est hypnotisante, parfaite pour les photos.", "date": "2024-04-18" },
+    { "author": "Omar Bennani", "rating": 4, "comment": "Une atmosphère méditative et inspire. Parfait pour se déconnecter du stress urbain.", "date": "2024-03-25" },
+    { "author": "Jessica Thompson", "rating": 5, "comment": "Chefchaouen a dépassé mes attentes ! La cascade d'Akchour est magnifique, les gens chaleureux et accueillants.", "date": "2024-02-20" },
+    { "author": "Karim El Kadi", "rating": 5, "comment": "Une perle du Rif. Je reviens régulièrement pour cette sérénité qu'on ne trouve nulle part.", "date": "2024-01-10" }
+  ],
+  "safi": [
+    { "author": "Vincent Beaumont", "rating": 4, "comment": "Safi est un port tranquille avec un charme authentique. Bonne base pour explorer la côte.", "date": "2024-04-15" },
+    { "author": "Noor El Said", "rating": 5, "comment": "J'aime la simplicité de Safi. Les plages sont magnifiques et l'ambiance est très locale.", "date": "2024-03-20" },
+    { "author": "Elena Rossi", "rating": 4, "comment": "Excellent lieu pour fuir la foule. Port de pêche pittoresque et gens adorables.", "date": "2024-02-25" }
+  ],
+  "essaouira": [
+    { "author": "Pierre Moreau", "rating": 5, "comment": "Essaouira me fait du bien à chaque fois. L'ambiance bohème, les artistes, les vents... Une ville vivante et créative.", "date": "2024-04-12" },
+    { "author": "Fatima Zahra", "rating": 5, "comment": "Mon port préféré au Maroc. Le poisson frais, les galeries d'art, les couchers de soleil...tout y est !", "date": "2024-03-30" },
+    { "author": "David Anderson", "rating": 4, "comment": "Excellent pour le kitesurf et les sports nautiques. La ville elle-même est charmante avec une vibe artistique cool.", "date": "2024-02-14" },
+    { "author": "Nadia Oubaha", "rating": 5, "comment": "Essaouira incarne le Maroc moderne. Respectueuse de ses traditions tout en accueillant les créatifs.", "date": "2024-01-05" }
+  ],
+  "rabat": [
+    { "author": "Caroline Duchamp", "rating": 5, "comment": "Rabat est une capitale souvent sous-estimée. La Kasbah des Oudayas est un havre de paix avec vue sur le fleuve.", "date": "2024-04-08" },
+    { "author": "Hassan Bennani", "rating": 4, "comment": "Moderne mais authentique. Le Festival Mawazine est spectaculaire. Une ville en constant développement.", "date": "2024-03-20" },
+    { "author": "Emma Wilson", "rating": 5, "comment": "Rabat a tout pour plaire. Culture, gastronomie, espaces verts... C'est un bijou bien gardé !", "date": "2024-02-10" },
+    { "author": "Salim Azouz", "rating": 5, "comment": "Ma capitale chérie. Élégante et verte, avec une riche histoire à chaque coin de rue.", "date": "2024-01-22" }
+  ],
+  "ifrane": [
+    { "author": "Bruno Leclerc", "rating": 5, "comment": "Ifrane est la Suisse du Maroc ! Air pur, montagnes magnifiques et ambiance alpine. Un vrai dépaysement.", "date": "2024-04-20" },
+    { "author": "Leila Bennani", "rating": 5, "comment": "L'été, c'est le refuge parfait. Forêts de cèdres, air frais, le lion de pierre... tout est magique.", "date": "2024-03-15" },
+    { "author": "Klaus Mueller", "rating": 4, "comment": "Belle destination pour échapper à la chaleur. L'université d'Ifrane est aussi très impressionnante.", "date": "2024-02-22" }
+  ],
+  "dakhla": [
+    { "author": "Thierry Blanc", "rating": 5, "comment": "Dakhla est le paradis du kitesurf ! Lagune magnifique, dunes blanches, une vraie aventure sahérienne.", "date": "2024-04-18" },
+    { "author": "Amir Salam", "rating": 5, "comment": "Exotique et isolée. C'est la destination pour les amateurs de sports nautiques extrêmes.", "date": "2024-03-10" },
+    { "author": "Susan Hartley", "rating": 5, "comment": "Les couchers de soleil sur la lagune sont absolument spectaculaires. Une perle cachée du Maroc !", "date": "2024-02-05" }
+  ],
+  "tanger": [
+    { "author": "Antoine Mercier", "rating": 5, "comment": "Tanger a un charme colonial unique. La vue sur le détroit est incroyable. Ville cosmopolite et vibrante.", "date": "2024-04-16" },
+    { "author": "Sarah Cohen", "rating": 4, "comment": "Au carrefour de deux mondes. La médina mérite le détour et l'ambiance de la corniche est relaxante.", "date": "2024-03-08" },
+    { "author": "Rachid El Housni", "rating": 5, "comment": "Tanger a été ma porte d'entrée au Maroc. Une ville pleine de vie et de histoire.", "date": "2024-01-30" }
+  ],
+  "agadir": [
+    { "author": "Jean Leclerc", "rating": 5, "comment": "Agadir est le paradis du surf ! 300 jours de soleil, une plage magnifique et une atmosphere dynamique.", "date": "2024-04-14" },
+    { "author": "Samira Mo", "rating": 5, "comment": "La reconstruction d'Agadir après 1960 est impressionante. Une ville moderne avec une belle âme.", "date": "2024-03-28" },
+    { "author": "Lucas Ferrari", "rating": 4, "comment": "Excellent base pour explorer le sud. Taghazout est à côté et l'ambiance est décontractée et cool.", "date": "2024-02-12" },
+    { "author": "Zainab El Fassi", "rating": 5, "comment": "Agadir est ma destination préférée pour se détendre. Le souk, la plage, le coucher de soleil... tout est parfait.", "date": "2024-01-08" }
+  ]
+}

@@ -1,0 +1,598 @@
+[
+  {
+    "id": 5,
+    "name": "Dar El Medina",
+    "city": "Rabat",
+    "category": "restaurant",
+    "rating": 4.1,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/61/1d/bc/knafa.jpg?w=1000&h=-1&s=1",
+    "description": "Restaurant traditionnel marocain dans la médina de Rabat. Décor chaleureux avec musiciens gnawa en soirée, cuisine copieuse de tajines et couscous. Menu fixe abordable très apprécié des locaux et touristes.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Isabelle G.",
+        "rating": 4,
+        "comment": "Très bon restaurant. Service rapide et portions généreuses.",
+        "date": "2026-02-06T10:34:01.489241"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-03-07T10:34:01.489254"
+      }
+    ],
+    "pricePerPerson": 85,
+    "infosPratiques": {
+      "adresse": "3 Rue Benjelloul, Souk Al Sabat, Médina, Rabat 10100, Maroc",
+      "telephone": "+212 702-707071 / +212 634 007 113",
+      "horaires": "Déjeuner : 12h-16h | Dîner : 19h-22h (souvent fermé le lundi)",
+      "specialites": "Tajines, couscous, cuisine marocaine traditionnelle, musiciens gnawa en soirée",
+      "conseils": "Idéal pour une expérience authentique dans la médina. Réservez le soir pour profiter de l’ambiance musicale. Personnel accueillant qui parle français."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Restaurant Bab Ssour",
+    "city": "Chefchaouen",
+    "category": "restaurant",
+    "rating": 4.5,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/27/61/3b/this-is-the-inside-lookthis.jpg?w=1100&h=600&s=1",
+    "description": "Considéré comme le meilleur et le plus populaire restaurant de Chefchaouen. Trois niveaux de salle et grande terrasse sur les toits avec vue sur la médina. Cuisine marocaine authentique : tajines, couscous du vendredi, bissara. Très fréquenté par les locaux et les voyageurs. Réservation recommandée.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-03-26T10:34:01.490168"
+      },
+      {
+        "author": "Claire B.",
+        "rating": 4,
+        "comment": "Rooftop sympa, cocktails bons, petite attente mais en vaut la peine.",
+        "date": "2026-03-25T10:34:01.490182"
+      }
+    ],
+    "pricePerPerson": 150,
+    "infosPratiques": {
+      "adresse": "No 31 Rue Benjelloun / 5 Rue El Kharrazin, Chefchaouen 91000, Maroc",
+      "telephone": "+212 660 261 128",
+      "horaires": "Midi et soir, généralement jusqu’à 22h30-23h",
+      "specialites": "Tajines, couscous du vendredi, bissara, cuisine marocaine authentique",
+      "conseils": "Réservation fortement recommandée. Parfait pour profiter de la vue sur la médina bleue au coucher du soleil."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Le 20 Restaurant",
+    "city": "Agadir",
+    "category": "restaurant",
+    "rating": 4.6,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN61wnYVDD_LV1s34VqhhXsG2lVLBAZuWwLihLJ=s1360-w1360-h1020-rw",
+    "description": "Joyau de la couronne gastronomique d'Agadir depuis plus de trois décennies. Cuisine marocaine à base de produits frais locaux, huile d'argan et safran. Ambiance caméléon du midi au soir, idéal pour moments festifs ou intimes.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Isabelle G.",
+        "rating": 4,
+        "comment": "Très bon restaurant. Service rapide et portions généreuses.",
+        "date": "2026-03-15T10:34:01.490489"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-02-08T10:34:01.490510"
+      },
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-02-28T10:34:01.490556"
+      }
+    ],
+    "pricePerPerson": 140,
+    "infosPratiques": {
+      "adresse": "12 Boulevard du 20 Août, Complexe Tagadirt, Secteur Balnéaire, Agadir 80000, Maroc",
+      "telephone": "+212 528 84 08 05",
+      "horaires": "Tous les jours de midi à minuit (parfois jusqu’à 1h)",
+      "specialites": "Cuisine marocaine raffinée, produits frais, poissons, tajines",
+      "conseils": "Parfait pour un repas en bord de mer ou en soirée. Réservez pour les moments festifs."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Saveurs du Détroit",
+    "city": "Tanger",
+    "category": "restaurant",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=500&h=350&fit=crop",
+    "description": "Restaurant de fruits de mer face au détroit de Gibraltar. Poissons et fruits de mer frais du port de Tanger, spécialités tangéroises et vue sur le détroit. Adresse populaire référencée par les guides de voyage.",
+    "cuisine": "fruits de mer",
+    "reviews": [
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-03-02T10:34:01.491138"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-02-08T10:34:01.491153"
+      }
+    ],
+    "pricePerPerson": 165,
+    "infosPratiques": {
+      "adresse": "Près du port / Escalier Waller, zone face au détroit, Tanger, Maroc",
+      "telephone": "Vérifier sur place (numéros variables selon les établissements similaires de fruits de mer)",
+      "horaires": "Midi et soir (souvent fermé le vendredi ou pendant le Ramadan)",
+      "specialites": "Poissons et fruits de mer frais du port, spécialités tangéroises",
+      "conseils": "Idéal pour un déjeuner avec vue sur le détroit après une visite du port. Réservez en haute saison."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Le Jardin Secret Marrakech",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.3,
+    "image": "https://cdn-imgix.headout.com/media/images/59498533-e163-422b-af2a-dd14486f3f15-1760683098545-320305.jpg?auto=compress%2Cformat&w=900&h=562.5&q=90&ar=16%3A10&crop=faces%2Ccenter&fit=crop",
+    "description": "Restaurant au cadre enchanteur niché dans un jardin andalou secret en médina. Cuisine marocaine revisitée avec des produits du marché Jemaa El-Fna. Tajines parfumés, couscous aux 7 légumes et pastilla signature.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Isabelle G.",
+        "rating": 4,
+        "comment": "Très bon restaurant. Service rapide et portions généreuses.",
+        "date": "2026-03-21T10:34:01.491427"
+      },
+      {
+        "author": "Claire B.",
+        "rating": 4,
+        "comment": "Rooftop sympa, cocktails bons, petite attente mais en vaut la peine.",
+        "date": "2026-03-16T10:34:01.491441"
+      },
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-02-10T10:34:01.491454"
+      }
+    ],
+    "pricePerPerson": 130,
+    "infosPratiques": {
+      "adresse": "121 Rue Mouassine, Médina, Marrakech 40030, Maroc",
+      "telephone": "+212 667 81 38 68 / +212 524 39 00 40",
+      "horaires": "Ouvert tous les jours (généralement de la matinée au soir)",
+      "specialites": "Tajines parfumés, couscous aux 7 légumes, pastilla, cuisine marocaine revisitée",
+      "conseils": "Cadre enchanteur dans un jardin secret. Parfait pour un moment calme dans la médina. Réservez pour le dîner."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Nomad Marrakech",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.4,
+    "image": "https://media.cntraveler.com/photos/57ed7da8196e3f9630631fbf/16:9/w_2560%2Cc_limit/Rooftop-Nomad-MarrakechMorocco-CRHotel.jpg",
+    "description": "Restaurant rooftop contemporain très apprécié à Marrakech, face aux épices de la place Rahba Kedima. Cuisine marocaine moderne revisitée, cocktails créatifs et vue imprenable sur les toits de la médina et le minaret de la Koutoubia.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-02-02T10:34:01.491479"
+      },
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-03-28T10:34:01.491494"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-02-04T10:34:01.491506"
+      }
+    ],
+    "pricePerPerson": 155,
+    "infosPratiques": {
+      "adresse": "1 Derb Aarjane, Rahba Kedima (Place des Épices), Médina, Marrakech 40000, Maroc",
+      "telephone": "+212 524 38 16 09 / +212 661 45 15 19",
+      "horaires": "Tous les jours de 12h à 23h",
+      "specialites": "Cuisine marocaine moderne, cocktails créatifs",
+      "conseils": "Réservation fortement recommandée pour le rooftop. Idéal au coucher du soleil."
+    }
+  },
+  {
+    "id": 41,
+    "name": "L'Mida Marrakech",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/11/7a/dd/our-rooftop-at-sunset.jpg?w=900&h=500&s=1",
+    "description": "L'un des rooftops les plus hauts et tendance de la médina. Ambiance chic, cuisine marocaine fusion et vue panoramique exceptionnelle.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Isabelle G.",
+        "rating": 4,
+        "comment": "Très bon restaurant. Service rapide et portions généreuses.",
+        "date": "2026-02-28T10:34:01.491532"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-02-28T10:34:01.491546"
+      },
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-02-16T10:34:01.491559"
+      }
+    ],
+    "pricePerPerson": 180,
+    "infosPratiques": {
+      "adresse": "78 Bis Derb Nkhal, Rahba Lakdima, Médina, Marrakech 40030, Maroc",
+      "telephone": "+212 524 44 36 62",
+      "horaires": "Midi et soir (rooftop souvent ouvert jusqu’en fin de soirée)",
+      "specialites": "Cuisine marocaine fusion, plats chic",
+      "conseils": "Ambiance tendance et chic. Réservez à l’avance, surtout pour le coucher du soleil."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Café des Épices",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.5,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/7a/a1/b0/enjoy-a-marrakchi-sunset.jpg?w=900&h=500&s=1",
+    "description": "Institution mythique sur la Place des Épices. Terrasse animée, cuisine marocaine authentique et vue directe sur les souks.",
+    "cuisine": "cafe",
+    "reviews": [
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-02-13T10:34:01.491585"
+      },
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-02-02T10:34:01.491599"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-01-25T10:34:01.491611"
+      }
+    ],
+    "pricePerPerson": 75,
+    "infosPratiques": {
+      "adresse": "75 Rahba Lakdima (Place des Épices), Médina, Marrakech 40000, Maroc",
+      "telephone": "+212 524 39 17 70",
+      "horaires": "Tous les jours de 9h à 23h",
+      "specialites": "Cuisine marocaine traditionnelle, tajines, plats frais",
+      "conseils": "Excellent pour observer l’animation des souks. Idéal à toute heure. Arrivez tôt pour une bonne place sur la terrasse."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Dardar Rooftop",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.6,
+    "image": "https://www.rooftopdardar.com/img/restaurant-with-a-view-dining-experience.jpg",
+    "description": "Rooftop bohème très apprécié pour les couchers de soleil. Ambiance lounge, musique et vue 360° sur l'Atlas et la médina.",
+    "cuisine": "internationale",
+    "reviews": [
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-01-29T10:34:01.491636"
+      },
+      {
+        "author": "Claire B.",
+        "rating": 4,
+        "comment": "Rooftop sympa, cocktails bons, petite attente mais en vaut la peine.",
+        "date": "2026-01-26T10:34:01.491652"
+      }
+    ],
+    "pricePerPerson": 160,
+    "infosPratiques": {
+      "adresse": "4 Riad Zitoun El Kedim, Médina, Marrakech 40000, Maroc",
+      "telephone": "+212 623 61 11 21",
+      "horaires": "Tous les jours de 12h à 2h du matin",
+      "specialites": "Cuisine marocaine & fusion, cocktails, ambiance lounge",
+      "conseils": "Idéal pour les couchers de soleil avec vue 360°. Réservez pour le soir."
+    }
+  },
+  {
+    "id": 50,
+    "name": "M Rooftop by Medina Heritage",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.8,
+    "image": "https://marrakechbestof.com/wp-content/uploads/2021/07/117823332_3605360146150094_7647297630585453254_n.jpg",
+    "description": "Rooftop haut de gamme avec vue spectaculaire sur la médina et la Koutoubia. Très populaire auprès des voyageurs.",
+    "cuisine": "marocaine & internationale",
+    "reviews": [
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-01-30T10:34:01.491677"
+      },
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-02-07T10:34:01.491690"
+      },
+      {
+        "author": "Claire B.",
+        "rating": 4,
+        "comment": "Rooftop sympa, cocktails bons, petite attente mais en vaut la peine.",
+        "date": "2026-02-01T10:34:01.491703"
+      }
+    ],
+    "pricePerPerson": 175,
+    "infosPratiques": {
+      "adresse": "58 Angle Rue El Ksour et Rue Fhal Zefriti, Médina, Marrakech 40030, Maroc",
+      "telephone": "+212 525 07 08 28 / +212 661 26 89 25",
+      "horaires": "Généralement de 12h à 23h",
+      "specialites": "Cuisine marocaine & internationale, vue spectaculaire",
+      "conseils": "Réservation obligatoire. Parfait pour une expérience haut de gamme avec vue imprenable."
+    }
+  },
+  {
+    "id": 51,
+    "name": "La Famille",
+    "city": "Marrakech",
+    "category": "restaurant",
+    "rating": 4.6,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/bb/f5/b4/la-famille.jpg?w=900&h=500&s=1",
+    "description": "Jardin bohème et convivial caché dans la médina. Plats frais, healthy et ambiance chaleureuse.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-04-11T10:34:01.491727"
+      },
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-01-28T10:34:01.491741"
+      }
+    ],
+    "pricePerPerson": 95,
+    "infosPratiques": {
+      "adresse": "34 Derb Jdid / 42 Riad Zitoun El Jedid, Médina, Marrakech 40040, Maroc",
+      "telephone": "+212 524 38 52 95",
+      "horaires": "Principalement le midi (12h-16h/17h), fermé certains jours",
+      "specialites": "Plats frais, healthy, marocaine & végétarienne",
+      "conseils": "Idéal pour un déjeuner calme et convivial dans un jardin bohème. Réservez si possible."
+    }
+  },
+  {
+    "id": 62,
+    "name": "Restaurant Al Firdaous",
+    "city": "Fès",
+    "category": "restaurant",
+    "rating": 4.6,
+    "image": "https://travelcurator.com/wp-content/uploads/2026/02/Fez-Palais-Feature-1200x650.jpg",
+    "description": "Restaurant gastronomique fassi installé dans un ancien palais de la médina. Musique andalouse en soirée, pastilla au pigeon maison, méchoui et couscous royal. L'une des meilleures tables de Fès, réputée pour son authenticité.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Pierre R.",
+        "rating": 5,
+        "comment": "Les meilleures tajines que j'ai jamais goûtées! Ambiance authentique.",
+        "date": "2026-02-05T10:34:01.492248"
+      },
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-03-13T10:34:01.492263"
+      },
+      {
+        "author": "Isabelle G.",
+        "rating": 4,
+        "comment": "Très bon restaurant. Service rapide et portions généreuses.",
+        "date": "2026-01-20T10:34:01.492277"
+      }
+    ],
+    "pricePerPerson": 145,
+    "infosPratiques": {
+      "adresse": "Rue El Quettanine / Derb El Miter Zenjfour, Bab Guissa, Médina, Fès, Maroc",
+      "telephone": "+212 535 63 57 89 (via riad associé)",
+      "horaires": "Midi et soir, avec musique andalouse en soirée",
+      "specialites": "Pastilla au pigeon, méchoui, couscous royal, cuisine fassi traditionnelle",
+      "conseils": "Réservez pour profiter de l’ambiance palais et musicale. Expérience authentique et raffinée."
+    }
+  },
+  {
+    "id": 70,
+    "name": "Restaurant Les Alizés",
+    "city": "Essaouira",
+    "category": "restaurant",
+    "rating": 4.5,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/14/3d/f7/restaurant-le-mogadorien.jpg",
+    "description": "Restaurant de poisson frais incontournable du port d'Essaouira. Grillades au feu de bois, sardines marinées, tajine de soles et langouste sur commande. Terrasse face au port de pêche coloré, ambiance chaleureuse et prix accessibles.",
+    "cuisine": "fruits de mer",
+    "reviews": [
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-02-08T10:34:01.492667"
+      },
+      {
+        "author": "Claire B.",
+        "rating": 4,
+        "comment": "Rooftop sympa, cocktails bons, petite attente mais en vaut la peine.",
+        "date": "2026-03-22T10:34:01.492682"
+      }
+    ],
+    "pricePerPerson": 120,
+    "infosPratiques": {
+      "adresse": "26 Rue Skala, Essaouira 44000, Maroc",
+      "telephone": "+212 524 47 68 19 / +212 661 34 70 32",
+      "horaires": "Midi et soir (souvent jusqu’à minuit)",
+      "specialites": "Poissons et fruits de mer frais, grillades, sardines, tajine de soles",
+      "conseils": "Idéal après une balade sur le port ou les remparts. Réservez le soir en haute saison."
+    }
+  },
+  {
+    "id": 76,
+    "name": "Chalet du Lac Dayet Aoua",
+    "city": "Ifrane",
+    "category": "restaurant",
+    "rating": 4.4,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/7b/44/1d/gite-dayet-aoua.jpg?w=1200&h=1200&s=1",
+    "description": "Restaurant panoramique au bord du lac Dayet Aoua, à 10 km d'Ifrane. Spécialités de truite fraîche du Moyen Atlas, méchoui d'agneau et couscous berbère. Vue imprenable sur le lac et les cèdres, terrasse en saison.",
+    "cuisine": "marocaine",
+    "reviews": [
+      {
+        "author": "Claire B.",
+        "rating": 4,
+        "comment": "Rooftop sympa, cocktails bons, petite attente mais en vaut la peine.",
+        "date": "2026-01-31T10:34:01.492912"
+      },
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-04-05T10:34:01.492925"
+      },
+      {
+        "author": "Isabelle G.",
+        "rating": 4,
+        "comment": "Très bon restaurant. Service rapide et portions généreuses.",
+        "date": "2026-04-10T10:34:01.492936"
+      }
+    ],
+    "pricePerPerson": 110,
+    "infosPratiques": {
+      "adresse": "Bord du Lac Dayet Aoua, Km 7-10 route d’Immouzer, près d’Ifrane, Maroc",
+      "telephone": "+212 535 61 05 75 / +212 661 35 12 57",
+      "horaires": "Midi et soir en saison (terrasse selon la météo)",
+      "specialites": "Truite fraîche du lac, méchoui d'agneau, couscous berbère",
+      "conseils": "Parfait pour un repas panoramique au bord du lac. Idéal en journée ou pour un déjeuner nature."
+    }
+  },
+  {
+    "id": 83,
+    "name": "Restaurant La Trattoria de Safi",
+    "city": "Safi",
+    "category": "restaurant",
+    "rating": 4.2,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f4/de/3e/gambas-au-limoncello.jpg?w=900&h=500&s=1",
+    "description": "Un restaurant italien populaire à Safi, avec une ambiance lounge décontractée. Spécialités de pâtes fraîches, pizzas, viandes grillées et poissons (beaucoup de choix de fruits de mer grâce à la proximité du port). C’est une adresse locale appréciée pour ses portions généreuses et son cadre moderne près de la marine marchande.",
+    "cuisine": "fruits de mer & internationale",
+    "reviews": [
+      {
+        "author": "Laurent C.",
+        "rating": 5,
+        "comment": "Couscous royal excellent. Le personnel parle français et est très accueillant.",
+        "date": "2026-04-06T10:34:01.493230"
+      },
+      {
+        "author": "Théo M.",
+        "rating": 5,
+        "comment": "Vue magnifique sur la médina et cuisine délicieuse. À recommander!",
+        "date": "2026-02-27T10:34:01.493243"
+      }
+    ],
+    "pricePerPerson": 125,
+    "infosPratiques": {
+      "adresse": "2 Avenue El Rakib Benslimane Abdelhak, près de la Marine Marchande, Safi, Maroc",
+      "telephone": "+212 524 62 09 59",
+      "horaires": "Midi et soir (souvent ouvert tard)",
+      "specialites": "Pâtes maison, grillades, poissons du jour, pizzas, fruits de mer",
+      "conseils": "Idéal après une balade sur la plage ou les remparts. Réservez le soir. Ambiance lounge décontractée appréciée des locaux."
+    }
+    
+  },
+  {
+  "id": 90,
+  "name": "TalhaMar",
+  "city": "Dakhla",
+  "category": "restaurant",
+  "rating": 4.2,
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/65/94/87/talhamar.jpg?w=900&h=500&s=1",
+  "description": "Adresse incontournable pour les amateurs de fruits de mer à Dakhla. Huîtres ultra-fraîches de la lagune, poissons grillés, poulpe et tajines de fruits de mer. Ambiance conviviale avec vue sur la baie, très prisé par les kitesurfeurs et locaux.",
+  "cuisine": "fruits de mer & marocaine",
+  "reviews": [
+    {
+      "author": "Théo M.",
+      "rating": 5,
+      "comment": "Les meilleures huîtres et poissons frais que j'ai mangés au Maroc ! Vue magnifique.",
+      "date": "2026-03-15T10:34:01.000000"
+    },
+    {
+      "author": "Claire B.",
+      "rating": 4,
+      "comment": "Service sympa, portions généreuses. Parfait après une session de kite.",
+      "date": "2026-04-02T10:34:01.000000"
+    }
+  ],
+  "pricePerPerson": 160,
+  "infosPratiques": {
+    "adresse": "Point de Dragon, PK 28, Dakhla 73000, Maroc",
+    "telephone": "+212 661 80 72 93 / +212 661 14 79 95",
+    "horaires": "Midi et soir (généralement 12h-15h et 19h-23h)",
+    "prix": "Moyen à élevé (environ 160 DH/personne)",
+    "specialites": "Huîtres fraîches de Dakhla, poissons grillés, poulpe, tajines de fruits de mer",
+    "conseils": "Idéal pour un déjeuner ou dîner avec vue sur la lagune. Réservez le soir en haute saison. Parfait après le kitesurf ou une balade en 4x4."
+  }
+},
+{
+  "id": 91,
+  "name": "Restaurant Villa Dakhla",
+  "city": "Dakhla",
+  "category": "restaurant",
+  "rating": 4.3,
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/dc/b2/11/caption.jpg?w=1400&h=-1&s=1",
+  "description": "Restaurant emblématique avec terrasse offrant une vue magnifique sur la lagune. Spécialités de fruits de mer frais, huîtres, langoustes et plats originaux comme la tanjia de dromadaire. Ambiance chaleureuse et service attentif.",
+  "cuisine": "fruits de mer",
+  "reviews": [
+    {
+      "author": "Laurent C.",
+      "rating": 5,
+      "comment": "Vue exceptionnelle et fruits de mer ultra-frais. Une des meilleures tables de Dakhla.",
+      "date": "2026-02-20T10:34:01.000000"
+    },
+    {
+      "author": "Pierre R.",
+      "rating": 4,
+      "comment": "Excellent rapport qualité-prix pour la qualité des produits.",
+      "date": "2026-03-10T10:34:01.000000"
+    }
+  ],
+  "pricePerPerson": 180,
+  "infosPratiques": {
+    "adresse": "Avenue Mohamed V, Dakhla 73000, Maroc",
+    "telephone": "Vérifier sur place ou via +212 528 89 77 75 (zone portuaire proche)",
+    "horaires": "Déjeuner 12h-18h | Dîner ouvert tous les jours jusqu’à tard",
+    "prix": "Moyen à élevé (environ 180 DH/personne)",
+    "specialites": "Fruits de mer frais, huîtres, langouste, tanjia de dromadaire, riz au lait de chamelle",
+    "conseils": "Réservez pour profiter de la terrasse avec vue lagune. Idéal en couple ou en famille. Vérifiez les horaires en basse saison."
+  }
+}
+
+]

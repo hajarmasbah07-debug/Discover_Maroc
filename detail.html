@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Détails du lieu — DiscoverMaroc">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/listing.css">
+  <link rel="stylesheet" href="css/city-detail.css">
+  <title>Détail — DiscoverMaroc</title>
+</head>
+<body>
+
+  <!-- LOGO FIXE -->
+  <div class="logo-container">
+    <a href="index.html" class="logo"><img src="images/MLOGO.png" alt="DiscoverMaroc"></a>
+  </div>
+
+  <!-- NAVBAR (LIENS) -->
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="explore.html">Explorer</a>
+      <a href="hotels.html">Hébergements</a>
+      <a href="restaurants.html">Restaurants</a>
+      <a href="activites.html">Activités</a>
+      <a href="favorites.html">Favoris</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <div class="detail-hero">
+    <img id="detail-img" src="" alt="">
+    <div class="overlay">
+      <h1 id="detail-name"></h1>
+      <div class="meta">
+        <span id="detail-city"></span>
+        <span id="detail-badge" class="badge"></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- DETAIL INFO -->
+  <div class="detail-info">
+    <div class="info-header">
+      <div class="rating-box">
+        <div class="big-number" id="detail-rating">—</div>
+        <div class="rating-detail">
+          <div id="detail-stars"></div>
+          <span id="detail-count"></span>
+        </div>
+      </div>
+      <div class="price-box" id="detail-price"></div>
+    </div>
+
+    <div class="description" id="detail-desc"></div>
+
+    <div id="detail-infos-pratiques"></div>
+  </div>
+
+  <!-- MODAL AVIS -->
+  <div class="modal-overlay" id="modal-overlay"></div>
+  <div class="review-modal" id="review-modal">
+    <div class="modal-header">
+      <h2>Laisser un avis</h2>
+      <button class="modal-close" id="modal-close">&times;</button>
+    </div>
+    <form class="review-form" id="review-form">
+      <div class="form-group">
+        <label for="review-name">Votre nom</label>
+        <input type="text" id="review-name" required>
+      </div>
+
+      <div class="form-group">
+        <label>Votre note</label>
+        <div class="star-picker" id="star-picker">
+          <button class="star-btn" data-value="1" type="button">★</button>
+          <button class="star-btn" data-value="2" type="button">★</button>
+          <button class="star-btn" data-value="3" type="button">★</button>
+          <button class="star-btn" data-value="4" type="button">★</button>
+          <button class="star-btn" data-value="5" type="button">★</button>
+        </div>
+        <input type="hidden" id="review-rating" value="0">
+      </div>
+
+      <div class="form-group">
+        <label for="review-comment">Votre avis</label>
+        <textarea id="review-comment" rows="5" required></textarea>
+      </div>
+
+      <div id="form-msg"></div>
+      <button type="submit" class="btn btn-primary" style="width: 100%;">Publier</button>
+    </form>
+  </div>
+
+  <!-- AVIS SECTION -->
+  <div class="detail-reviews">
+    <div class="chapter chapter--reviews">
+      <div class="chapter-header">
+        <h2 class="chapter-title">Avis des Voyageurs</h2>
+        <a href="#" class="review-cta-btn" id="review-cta-link">Laisser un avis</a>
+      </div>
+      <div class="reviews-summary" id="reviews-summary">
+        <div class="reviews-score" id="reviews-score">—</div>
+        <div class="reviews-score-detail">
+          <div class="reviews-stars" id="reviews-stars"></div>
+          <span class="reviews-count" id="reviews-count"></span>
+        </div>
+      </div>
+      <div class="reviews-grid" id="reviews-list"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <img src="images/MLOGO.png" alt="DiscoverMaroc" style="height: 50px; margin-bottom: 8px;">
+        <div class="footer-tagline">Découvrez le Maroc authentique</div>
+      </div>
+      <div class="footer-links">
+        <a href="explore.html">Explorer</a>
+        <a href="hotels.html">Hébergements</a>
+        <a href="restaurants.html">Restaurants</a>
+        <a href="activites.html">Activités</a>
+      </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">© 2026 DiscoverMaroc — Tous droits réservés</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/detail.js"></script>
+</body>
+</html>

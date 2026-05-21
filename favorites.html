@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="DiscoverMaroc — Mes favoris au Maroc. Retrouvez vos villes, Hébergements, restaurants et activités préférés.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/home.css">
+  <link rel="stylesheet" href="css/listing.css">
+  <title>DiscoverMaroc — Mes Favoris</title>
+</head>
+<body>
+
+  <!-- LOGO FIXE -->
+  <div class="logo-container">
+    <a href="index.html" class="logo"><img src="images/MLOGO.png" alt="DiscoverMaroc"></a>
+  </div>
+
+  <!-- NAVBAR (LIENS) -->
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="explore.html">Explorer</a>
+      <a href="hotels.html">Hébergements</a>
+      <a href="restaurants.html">Restaurants</a>
+      <a href="activites.html">Activités</a>
+      <a href="favorites.html" class="active">Favoris</a>
+    </div>
+  </nav>
+
+  <!-- PAGE TITLE -->
+  <section class="listing-header">
+    <h1>Mes Favoris</h1>
+    <p>Retrouvez toutes vos villes, Hébergements, restaurants et activités préférés</p>
+  </section>
+
+  <!-- VILLES FAVORIS -->
+  <section class="home-section" id="section-cities">
+    <h2 class="section-title">Villes Favoris</h2>
+    <p class="section-subtitle" id="cities-subtitle">Retrouvez vos villes préférées</p>
+    <div class="city-grid" id="favorite-cities-grid"></div>
+    <div class="empty-state" id="cities-empty" style="display: none;">
+      <p>Aucune ville ajoutée aux favoris pour le moment.</p>
+      <a href="explore.html" class="btn-primary">Découvrir les villes</a>
+    </div>
+  </section>
+
+  <!-- ACTIVITÉS FAVORIS -->
+  <section class="home-section" id="section-activities">
+    <h2 class="section-title">Activités Favoris</h2>
+    <p class="section-subtitle" id="activities-subtitle">Vos expériences préférées</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="activities-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="activities-carousel"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="activities-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="activities-dots"></div>
+    <div class="empty-state" id="activities-empty" style="display: none;">
+      <p>Aucune activité ajoutée aux favoris pour le moment.</p>
+      <a href="activites.html" class="btn-primary">Découvrir les activités</a>
+    </div>
+  </section>
+
+  <!-- HÉBERGEMENTS FAVORIS -->
+  <section class="home-section" id="section-hotels">
+    <h2 class="section-title">Hébergements Favoris</h2>
+    <p class="section-subtitle" id="hotels-subtitle">Vos Hébergements préférés</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="hotels-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="hotels-carousel"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="hotels-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="hotels-dots"></div>
+    <div class="empty-state" id="hotels-empty" style="display: none;">
+      <p>Aucun hôtel ajouté aux favoris pour le moment.</p>
+      <a href="hotels.html" class="btn-primary">Découvrir les Hébergements</a>
+    </div>
+  </section>
+
+  <!-- RESTAURANTS FAVORIS -->
+  <section class="home-section" id="section-restaurants">
+    <h2 class="section-title">Restaurants Favoris</h2>
+    <p class="section-subtitle" id="restaurants-subtitle">Vos restaurants préférés</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="restaurants-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="restaurants-carousel"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="restaurants-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="restaurants-dots"></div>
+    <div class="empty-state" id="restaurants-empty" style="display: none;">
+      <p>Aucun restaurant ajouté aux favoris pour le moment.</p>
+      <a href="restaurants.html" class="btn-primary">Découvrir les restaurants</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <img src="images/MLOGO.png" alt="DiscoverMaroc" style="height: 50px; margin-bottom: 8px;">
+        <div class="footer-tagline">Découvrez le Maroc authentique</div>
+      </div>
+      <div class="footer-links">
+        <a href="explore.html">Explorer</a>
+        <a href="hotels.html">Hébergements</a>
+        <a href="restaurants.html">Restaurants</a>
+        <a href="activites.html">Activités</a>
+        <a href="favorites.html">Mes Favoris</a>
+      </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">© 2026 DiscoverMaroc — Tous droits réservés</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/favorites.js"></script>
+</body>
+</html>

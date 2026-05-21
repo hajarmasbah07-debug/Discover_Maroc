@@ -1,0 +1,1116 @@
+[
+  {
+    "id": 1,
+    "name": "Sofitel Rabat Jardin des Roses",
+    "city": "Rabat",
+    "category": "hotel",
+    "rating": 4.6,
+    "image": "https://images.trvl-media.com/lodging/1000000/70000/68700/68642/8fb795b2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+    "description": "Hôtel 5 étoiles niché dans un vaste jardin verdoyant au quartier Aviation de Rabat. Mélange de design marocain et de sophistication française, avec spa, plusieurs restaurants et une grande piscine. Référence du luxe dans la capitale.",
+    "type": "hotel",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-04-16T10:34:01.488665"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-01-30T10:34:01.489013"
+      }
+    ],
+    "pricePerNight": 550
+  },
+  {
+    "id": 2,
+    "name": "Riad Kalaa",
+    "city": "Rabat",
+    "category": "hotel",
+    "rating": 4.5,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/70/e7/f7/breakfast-patio.jpg?w=1400&h=800&s=1",
+    "description": "Riad historique datant de 1815, situé dans les murs de la médina de Rabat. Patio central avec fontaine, terrasse panoramique, hammam et restaurant LE KALAA proposant une cuisine marocaine raffinée. Transfert aéroport gratuit en saison.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-03-28T10:34:01.489083"
+      },
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-04-04T10:34:01.489102"
+      }
+    ],
+    "pricePerNight": 350
+  },
+  {
+    "id": 3,
+    "name": "Riad Dar Dar",
+    "city": "Rabat",
+    "category": "hotel",
+    "rating": 4.4,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMceu6kksBejXoUgx0VLvrjZlm1wrknCiSlVLAj=s1360-w1360-h1020-rw",
+    "description": "Riad de charme dans la médina de Rabat, à 1 km de la gare Rabat Ville. Deux restaurants, piscine extérieure ouverte en saison et hammam. Cadre marocain authentique apprécié des voyageurs d'affaires et de loisirs.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-22T10:34:01.489134"
+      },
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-04-16T10:34:01.489164"
+      }
+    ],
+    "pricePerNight": 300
+  },
+  {
+    "id": 4,
+    "name": "Dar El Kebira",
+    "city": "Rabat",
+    "category": "hotel",
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25189843.jpg?k=938a6550b1442dbf525ccfaddd877ff6653c8b356dfb90aa877c364baf22dec4&o=",
+    "description": "Maison d'hôtes de charme proche de la Kasbah des Oudaïas à Rabat. Cadre authentique dans la vieille médina, petit-déjeuner marocain inclus et terrasse avec vue sur la ville. Populaire auprès des voyageurs de passage à l'aéroport de Salé.",
+    "type": "riad",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-04-05T10:34:01.489197"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-02-13T10:34:01.489207"
+      },
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-04-01T10:34:01.489217"
+      }
+    ],
+    "pricePerNight": 200
+  },
+  {
+    "id": 12,
+    "name": "Dakhla Attitude",
+    "city": "Dakhla",
+    "category": "hotel",
+    "rating": 4.6,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOF6Oaf7Sa96Z8eKBUAjeVYHnWGex0wHnC6SHWp=s1360-w1360-h1020-rw",
+    "description": "Station chic et contemporaine au bord du lagon de Dakhla, reconnue comme l'une des meilleures bases de kitesurf au monde. Centre de kite intégré, restaurant, piscine et bungalows avec vue directe sur le lagon turquoise.",
+    "type": "hotel",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "petit-dejeuner",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-16T10:34:01.489721"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-09T10:34:01.489756"
+      }
+    ],
+    "pricePerNight": 450
+  },
+  {
+    "id": 13,
+    "name": "Dakhla Club Hotel & Spa",
+    "city": "Dakhla",
+    "category": "hotel",
+    "rating": 4.4,
+    "image": "https://dakhlaclub.com/wp-content/uploads/2024/06/IMG_6379_jpg-scaled-1-1536x864.webp",
+    "description": "Hôtel 4 étoiles en bord de mer conçu pour les amateurs d'aventure et de détente. Accès direct à la plage, spa, activités nautiques et cuisine marocaine et internationale. L'un des établissements les plus complets de Dakhla.",
+    "type": "hotel spa",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-02-08T10:34:01.489790"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-04-09T10:34:01.489805"
+      }
+    ],
+    "pricePerNight": 400
+  },
+  {
+    "id": 14,
+    "name": "La Tour d'Eole",
+    "city": "Dakhla",
+    "category": "hotel",
+    "rating": 4.2,
+    "image": "https://www.myboutiquehotel.com/photos/114821/la-tour-deole-dakhla-001-55424-900x570.jpg",
+    "description": "Lodge 3 étoiles avec accès direct à la plage de Dakhla. Atmosphère détendue et chaleureuse, hébergements acceptant les animaux. Populaire auprès des kitesurfeurs pour son emplacement proche des meilleurs spots.",
+    "type": "hotel",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "petit-dejeuner",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-03-15T10:34:01.489827"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-04T10:34:01.489840"
+      }
+    ],
+    "pricePerNight": 280
+  },
+  {
+    "id": 17,
+    "name": "Lina Ryad & Spa",
+    "city": "Chefchaouen",
+    "category": "hotel",
+    "rating": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fc/41/4c/terrace--v14037015.jpg?w=900&h=500&s=1",
+    "description": "Hôtel-boutique au cœur de Chefchaouen, bien connu pour son décor exquis alliant architecture marocaine traditionnelle et commodités modernes. Spa magnifique, piscine et vues imprenables sur la ville bleue et les montagnes du Rif.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-04-07T10:34:01.489946"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-02-03T10:34:01.489960"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-18T10:34:01.489972"
+      }
+    ],
+    "pricePerNight": 420
+  },
+  {
+    "id": 18,
+    "name": "Riad Mauritania",
+    "city": "Chefchaouen",
+    "category": "hotel",
+    "rating": 4.6,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376456998.jpg?k=5dba847b021e5ede8dae0ffe59fa0309b526743aafa4aaac619f46769334497a&o=",
+    "description": "Riad traditionnel dans le quartier Souika de Chefchaouen, à 300 m de la Kasba et de la place Outa El Hammam. Cadre authentique avec terrasse panoramique, idéalement situé pour explorer les ruelles bleues à pied.",
+    "type": "riad",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "petit-dejeuner",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-01-27T10:34:01.489999"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-22T10:34:01.490066"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-02-03T10:34:01.490093"
+      }
+    ],
+    "pricePerNight": 250
+  },
+  {
+    "id": 19,
+    "name": "Riad Gharnata",
+    "city": "Chefchaouen",
+    "category": "hotel",
+    "rating": 4.4,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOS6NCUaJ1xWE6VALy7D86vHWPWWLTufqjy3PkU=s1360-w1360-h1020-rw",
+    "description": "Maison d'hôtes de charme dans la médina de Chefchaouen avec restaurant. Cuisine locale rifaine servie dans un cadre traditionnel. Recommandé par Kayak et plusieurs guides de voyage pour sa gastronomie authentique.",
+    "type": "riad",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "petit-dejeuner",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-04-13T10:34:01.490127"
+      },
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-04-12T10:34:01.490141"
+      }
+    ],
+    "pricePerNight": 220
+  },
+  {
+    "id": 23,
+    "name": "Sofitel Agadir Royal Bay Resort",
+    "city": "Agadir",
+    "category": "hotel",
+    "rating": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/a4/77/d5/exterior.jpg?w=900&h=500&s=1",
+    "description": "Resort 5 étoiles en bord de plage à Agadir, alliant élégance et caractère marocain. Grande piscine extérieure, spa de classe mondiale, plusieurs restaurants et logements spacieux avec vue sur mer. L'une des meilleures adresses d'Agadir.",
+    "type": "resort",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-01T10:34:01.490392"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-02-19T10:34:01.490418"
+      }
+    ],
+    "pricePerNight": 480
+  },
+  {
+    "id": 24,
+    "name": "Tikida Golf Palace",
+    "city": "Agadir",
+    "category": "hotel",
+    "rating": 4.4,
+    "image": "https://media.jet2.com/is/image/jet2/AGA_87448_Tikida_Golf_Palace_0324_06?wid=3840&qlt=85&dpr=off",
+    "description": "Hôtel de luxe typique à Agadir avec grande piscine et navette gratuite pour la plage. Cadre calme et élégant, proche du golf d'Agadir. Apprécié pour son rapport qualité-prix et son ambiance sereine.",
+    "type": "hotel",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-03-01T10:34:01.490444"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-02-04T10:34:01.490457"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-26T10:34:01.490467"
+      }
+    ],
+    "pricePerNight": 520
+  },
+  {
+    "id": 28,
+    "name": "Fairmont Tazi Palace Tangier",
+    "city": "Tanger",
+    "category": "hotel",
+    "rating": 4.7,
+    "image": "https://images.squarespace-cdn.com/content/v1/59945385197aeacc911dc0ba/1733158016430-9WMWGARGPOL2OAZID9M9/FAIRMONT+TAZI+PALACE+TANGIER_POOL-min.jpg",
+    "description": "Resort 5 étoiles luxueux à Tanger avec piscine extérieure, spa haut de gamme et salle de sport bien équipée. Vue imprenable sur la ville depuis les chambres. L'un des Hébergements les plus prestigieux de Tanger, proche du Cap Spartel.",
+    "type": "resort",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-02-11T10:34:01.490729"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-04T10:34:01.490750"
+      },
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-03-01T10:34:01.490762"
+      }
+    ],
+    "pricePerNight": 600
+  },
+  {
+    "id": 29,
+    "name": "Hotel El Minzah",
+    "city": "Tanger",
+    "category": "hotel",
+    "rating": 4.5,
+    "image": "https://eltorohotel.ma/wp-content/uploads/2024/11/6409ac7a3d0f4d2442a00c43_WhatsApp-Image-2023-02-22-at-15.11.20-1-min.jpeg",
+    "description": "Hôtel légendaire de Tanger depuis 1934, au charme hispano-mauresque. A accueilli Winston Churchill, les Rolling Stones et Cary Grant. 140 chambres, jardin luxuriant, piscine, spa et plusieurs restaurants. Symbole de l'âge d'or de Tanger.",
+    "type": "hotel",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-09T10:34:01.490790"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-02-02T10:34:01.490807"
+      },
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-01-25T10:34:01.490835"
+      }
+    ],
+    "pricePerNight": 580
+  },
+  {
+    "id": 30,
+    "name": "Dar Nour",
+    "city": "Tanger",
+    "category": "hotel",
+    "rating": 4.7,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOj7Flbzap9hgydDbw1E06pVRhehJ2U6X5ydDAW=s1360-w1360-h1020-rw",
+    "description": "L'un des plus anciens riads de Tanger, situé sur les hauteurs de la Casbah. Chambres décorées d'objets d'art et d'antiquités reflétant l'histoire de la ville. Terrasse avec vue sur la médina et la mer. Maison de massages et wifi gratuit.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-01-28T10:34:01.490865"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-31T10:34:01.490879"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-23T10:34:01.490900"
+      }
+    ],
+    "pricePerNight": 340
+  },
+  {
+    "id": 31,
+    "name": "Hilton Tangier Al Houara Resort & Spa",
+    "city": "Tanger",
+    "category": "hotel",
+    "rating": 4.5,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMHc0-upW8A3IKFoq96yrL_9l4-xKlNDPK6Cuiz=s1360-w1360-h1020-rw",
+    "description": "Resort 5 étoiles face à l'océan Atlantique à 20 km de Tanger, avec 304 chambres et suites luxueuses. Design contemporain à touches traditionnelles marocaines, deux restaurants, spa et accès direct à la plage.",
+    "type": "resort",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-02-12T10:34:01.490987"
+      },
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-01-21T10:34:01.491019"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-02-20T10:34:01.491100"
+      }
+    ],
+    "pricePerNight": 500
+  },
+  {
+    "id": 35,
+    "name": "Riad El Fenn",
+    "city": "Marrakech",
+    "category": "hotel",
+    "rating": 4.8,
+    "image": "https://www.theturquoisecollection.com/media/55973817/EF_courtyard2.jpg?width=1310&height=650&scale=both&mode=crop&quality=80",
+    "description": "Riad boutique de luxe cofondé par Vanessa Branson au cœur de la médina. Passé de 6 à 41 chambres, il propose deux piscines, un rooftop bar-restaurant comparé au Soho House, une galerie d'art contemporain et un spa. Icône de Marrakech.",
+    "type": "riad",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-05T10:34:01.491258"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-01-20T10:34:01.491273"
+      }
+    ],
+    "pricePerNight": 560
+  },
+  {
+    "id": 36,
+    "name": "La Sultana Marrakech",
+    "city": "Marrakech",
+    "category": "hotel",
+    "rating": 4.9,
+    "image": "https://b1858819.smushcdn.com/1858819/wp-content/uploads/2024/09/La-Sultana-Marrakech-Luxury-Hotel-Review-scaled.jpg?lossy=2&strip=1&webp=1",
+    "description": "Hôtel-riad de luxe 5 étoiles dans le quartier Kasbah, proche des Tombeaux Saadiens. Grande terrasse panoramique, piscine chauffée, spa avec hammam, restaurant gastronomique marocain et français. Membre des Small Luxury Hotels of the World.",
+    "type": "riad",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-09T10:34:01.491297"
+      },
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-04-06T10:34:01.491311"
+      }
+    ],
+    "pricePerNight": 600
+  },
+  {
+    "id": 37,
+    "name": "Riad Kniza",
+    "city": "Marrakech",
+    "category": "hotel",
+    "rating": 4.8,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/52/08/87/riad-kniza.jpg?w=900&h=500&s=1",
+    "description": "Référence parmi les riads de prestige à Marrakech. Salons richement décorés de zelliges, boiseries sculptées et mobilier d'époque. Service particulièrement attentionné. La cuisine marocaine est réputée comme l'une des meilleures de la médina.",
+    "type": "riad",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-03-14T10:34:01.491335"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-16T10:34:01.491347"
+      }
+    ],
+    "pricePerNight": 540
+  },
+  {
+    "id": 38,
+    "name": "Riad Palais Sebban",
+    "city": "Marrakech",
+    "category": "hotel",
+    "rating": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a0/08/8b/palais-sebban.jpg?w=700&h=-1&s=1",
+    "description": "Ancien palais du XIXe siècle en médina, à quelques minutes de la place Jemaa el-Fna. Architecture maroco-andalouse authentique avec patios, zelliges et boiseries. Deux piscines dont une sur terrasse, spa avec hammam traditionnel.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-01-21T10:34:01.491381"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-01-21T10:34:01.491402"
+      }
+    ],
+    "pricePerNight": 380
+  },
+  {
+    "id": 59,
+    "name": "Riad Fès - Relais & Châteaux",
+    "city": "Fès",
+    "category": "hotel",
+    "rating": 4.9,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMTCG0NXgQOQIX3G2SycGAQULV22GYP-V3Ts0w7=s1360-w1360-h1020-rw",
+    "description": "Palace 5 étoiles membre des Relais & Châteaux, niché dans la médina de Fès el-Bali. 19 suites décorées d'artisanat fassi d'exception, piscine chauffée, spa avec hammam traditionnel et restaurant gastronomique. Référence absolue du luxe à Fès.",
+    "type": "riad",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-02-10T10:34:01.492083"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-02-17T10:34:01.492102"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-11T10:34:01.492115"
+      }
+    ],
+    "pricePerNight": 650
+  },
+  {
+    "id": 60,
+    "name": "Palais Amani",
+    "city": "Fès",
+    "category": "hotel",
+    "rating": 4.8,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPgOpEsRXu4QQfcAluDtXv0A7iuw0sodrgmuOlO=s1360-w1360-h1020-rw",
+    "description": "Ancien palais mérinide du XIVe siècle entièrement restauré dans la médina de Fès. Zelliges, stuc ciselé et boiseries en cèdre d'époque. Piscine sur terrasse avec vue panoramique sur les minarets, restaurant signature et hammam privé.",
+    "type": "riad",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-17T10:34:01.492141"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-03-03T10:34:01.492154"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-14T10:34:01.492167"
+      }
+    ],
+    "pricePerNight": 580
+  },
+  {
+    "id": 61,
+    "name": "Riad Laaroussa",
+    "city": "Fès",
+    "category": "hotel",
+    "rating": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/ba/d0/ca/riad-laaroussa.jpg?w=1000&h=-1&s=1",
+    "description": "Riad du XVIIe siècle restauré avec soin dans la médina de Fès. Patio central avec fontaine en marbre, 7 chambres décorées d'artisanat local, terrasse avec vue sur la ville et petit-déjeuner marocain copieux inclus.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-02-07T10:34:01.492190"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-02-27T10:34:01.492205"
+      }
+    ],
+    "pricePerNight": 360
+  },
+  {
+    "id": 67,
+    "name": "Heure Bleue Palais",
+    "city": "Essaouira",
+    "category": "hotel",
+    "rating": 4.8,
+    "image": "https://www.heure-bleue.com/_novaimg/4677642-1436787_0_98_2200_1502_2200_1500.rc.jpg",
+    "description": "Palais 5 étoiles du XVIIIe siècle au cœur de la médina d'Essaouira. Piscine intérieure chauffée, spa avec hammam, cinéma privé et restaurant gastronomique. Membre des Small Luxury Hotels of the World. Vue sur les remparts et l'océan.",
+    "type": "riad",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking"
+    ],
+    "reviews": [
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-02-26T10:34:01.492504"
+      },
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-03-20T10:34:01.492520"
+      }
+    ],
+    "pricePerNight": 600
+  },
+  {
+    "id": 68,
+    "name": "Riad al Madina",
+    "city": "Essaouira",
+    "category": "hotel",
+    "rating": 4.5,
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8L3E6aAfckseetdGWASdL_DQB5nxAloDQsaiIiGIPLwT_f6EHRFoGOy0SUYSgamqlGOFsnzW-S5EhbA7HPpN-Dn6_4ZKikzM6wZbC3xk3TFedsO8Yt04szrGt2qsCKpEeGFIn=s1360-w1360-h1020-rw",
+    "description": "Ancien caravansérail du XVIIIe siècle transformé en riad de charme dans la médina d'Essaouira. Patio central classé, terrasse panoramique, bar avec musique gnaoua les week-ends et restaurant avec cuisine marocaine et internationale.",
+    "type": "riad",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-01-23T10:34:01.492548"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-04-14T10:34:01.492564"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-04-11T10:34:01.492577"
+      }
+    ],
+    "pricePerNight": 280
+  },
+  {
+    "id": 69,
+    "name": "Villa de l'Ô",
+    "city": "Essaouira",
+    "category": "hotel",
+    "rating": 4.6,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10862725.jpg?k=8ee4ed00d582c9209c7fbd86049e644cf0c8122b0908f307dd692443ef32a23e&o=",
+    "description": "Maison d'hôtes de charme à deux pas des remparts d'Essaouira. Décoration alliant style marocain et touches contemporaines, terrasse avec vue sur les toits et hammam privatif sur réservation. Très apprécié pour son calme et son service.",
+    "type": "riad",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "spa"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-15T10:34:01.492604"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-01-31T10:34:01.492619"
+      },
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-04-12T10:34:01.492639"
+      }
+    ],
+    "pricePerNight": 420
+  },
+  {
+    "id": 74,
+    "name": "Michlifen Resort & Golf",
+    "city": "Ifrane",
+    "category": "hotel",
+    "rating": 4.8,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM2JmKNvDxcvBEqII0FRbAo2VJ3GzRdi1Ft-h4K=s1360-w1360-h1020-rw",
+    "description": "Resort 5 étoiles de montagne à Ifrane, le plus luxueux du Moyen Atlas. Chalets et suites avec vue sur la forêt de cèdres, piscine couverte chauffée, spa thermal, golf 18 trous et accès direct aux pistes de ski de Michlifen en hiver.",
+    "type": "resort",
+    "stars": 5,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "climatisation",
+      "petit-dejeuner",
+      "spa",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-04-03T10:34:01.492844"
+      },
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-02-12T10:34:01.492856"
+      }
+    ],
+    "pricePerNight": 500
+  },
+  {
+    "id": 75,
+    "name": "Hôtel Perce-Neige",
+    "city": "Ifrane",
+    "category": "hotel",
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331379481.jpg?k=bb1a9954d61e3154526d0a6e611fa5809b47a51b9320038ca2242cd0aa6e1210&o=",
+    "description": "Hôtel de montagne au style chalet alpin au cœur d'Ifrane, à deux pas du parc national. Chambres confortables avec vue sur les jardins, restaurant traditionnel marocain et ambiance familiale chaleureuse. Idéal en toutes saisons.",
+    "type": "hotel",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Ahmed B.",
+        "rating": 4,
+        "comment": "Excellent service. Viendra à nouveau la prochaine fois que je suis à Marrakech.",
+        "date": "2026-03-25T10:34:01.492877"
+      },
+      {
+        "author": "Jean P.",
+        "rating": 4,
+        "comment": "Très bon rapport qualité prix. L'endroit est propre et le personnel est courtois.",
+        "date": "2026-03-05T10:34:01.492889"
+      }
+    ],
+    "pricePerNight": 180
+  },
+  {
+    "id": 81,
+    "name": "Hôtel Atlantide Safi",
+    "city": "Safi",
+    "category": "hotel",
+    "rating": 4.1,
+    "image": "https://images.trvl-media.com/lodging/41000000/40160000/40154500/40154410/8ede3ab1.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+    "description": "Hôtel 3 étoiles bien situé face à l'océan Atlantique à Safi. Chambres confortables avec vue mer, restaurant proposant poissons et fruits de mer frais du port, terrasse panoramique. Meilleur rapport qualité-prix de la ville.",
+    "type": "hotel",
+    "stars": 3,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "parking"
+    ],
+    "reviews": [
+      {
+        "author": "Marie D.",
+        "rating": 5,
+        "comment": "Magnifique riad, accueil chaleureux et chambre très confortable. Petit-déjeuner délicieux!",
+        "date": "2026-03-28T10:34:01.493155"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable au cœur de la médina.",
+        "date": "2026-02-02T10:34:01.493168"
+      }
+    ],
+    "pricePerNight": 220
+  },
+  {
+    "id": 82,
+    "name": "Hôtel Atlantique Panorama Safi",
+    "city": "Safi",
+    "category": "hotel",
+    "rating": 4.3,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229749224.jpg?k=69909ac4d3cb8b68221c20475b9c27b8d934c360505030a454a624cc0650bdbb&o=",
+    "description": "Hôtel 3 étoiles bien situé face à l'océan Atlantique à Safi. Chambres confortables avec vue mer, restaurant proposant poissons et fruits de mer frais du port, terrasse panoramique. Meilleur rapport qualité-prix de la ville.",
+    "type": "hotel",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "parking",
+      "Room service",
+      "piscine"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné, cuisine locale excellente.",
+        "date": "2026-04-18T10:34:01.493189"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable.",
+        "date": "2026-02-03T10:34:01.493208"
+      }
+    ],
+    "pricePerNight": 560
+  },
+  {
+    "id": 82,
+    "name": "Desert camp camel & sandboarding",
+    "city": "Merzouga",
+    "category": "hotel",
+    "rating": 4.5,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/654103844.jpg?k=5bd0e8fcc2d1191c3fd8892463b3b6f25323a2aaaf91597e1745e9929c2e48a4&o=",
+    "description": "Camp de luxe dans le désert de Merzouga, offrant une expérience authentique et mémorable.",
+    "type": "camp",
+    "stars": 4,
+    "amenities": [
+      "wifi",
+      "climatisation",
+      "petit-dejeuner",
+      "parking",
+      "Room service"
+    ],
+    "reviews": [
+      {
+        "author": "Fatima M.",
+        "rating": 5,
+        "comment": "Atmosphère magique, personnel attentionné.",
+        "date": "2026-04-18T10:34:01.493189"
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "comment": "Un vrai bijou! Merci pour cette expérience inoubliable.",
+        "date": "2026-02-03T10:34:01.493208"
+      }
+    ],
+    "pricePerNight": 450
+  }
+]

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Les meilleurs Hébergements et riads du Maroc — avis et notes de voyageurs.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/listing.css">
+  <title>Hébergements & Riads — DiscoverMaroc</title>
+</head>
+<body data-category="hotel">
+
+  <!-- LOGO FIXE -->
+  <div class="logo-container">
+    <a href="index.html" class="logo"><img src="images/MLOGO.png" alt="DiscoverMaroc"></a>
+  </div>
+
+  <!-- NAVBAR (LIENS) -->
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="explore.html">Explorer</a>
+      <a href="hotels.html" class="active">Hébergements</a>
+      <a href="restaurants.html">Restaurants</a>
+      <a href="activites.html">Activités</a>
+      <a href="favorites.html" >Favoris</a>
+    </div>
+  </nav>
+
+  <section class="listing-header">
+    <h1>Hébergements & Riads</h1>
+    <p>Découvrez les meilleurs hébergements du Maroc</p>
+  </section>
+
+  <!-- FILTRES HÉBERGEMENTS -->
+  <div class="filters-panel" >
+    <div class="filters-row">
+      <div class="filter-group filter-search">
+        <label>Recherche</label>
+        <input type="text" id="search-input" placeholder="Nom de l'hébergement...">
+      </div>
+      <div class="filter-group">
+        <label>Type</label>
+        <select id="filter-type">
+          <option value="">Tous</option>
+          <option value="hotel">Hôtel</option>
+          <option value="riad">Riad</option>
+          <option value="resort">Resort</option>
+          <option value="auberge">Auberge</option>
+          <option value="camp">Camp</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>Étoiles</label>
+        <select id="filter-stars">
+          <option value="0">Toutes</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>Prix min (MAD/nuit)</label>
+        <input type="number" id="filter-price-min" placeholder="0" min="0">
+      </div>
+      <div class="filter-group">
+        <label>Prix max (MAD/nuit)</label>
+        <input type="number" id="filter-price-max" placeholder="5000" min="0">
+      </div>
+      </div>
+        <div class="filter-row">
+        <div class="amenity-chips" id="amenity-chips" style=" display: flex;
+    justify-content: center; position: relative; top: 15px;">
+          <label style="position: relative; top: 9px; right: 17px;font-size: 12px;font-weight: 600;color: var(--text-light);text-transform: uppercase;letter-spacing: 0.5px;">Équipements :</label>
+          <button class="chip" data-val="wifi"> <i class="fa-solid fa-wifi"></i>     Wi-Fi    </button>
+          <button class="chip" data-val="piscine"> <i class="fa-solid fa-swimmer"></i>     Piscine    </button>
+          <button class="chip" data-val="climatisation"><i class="fa-solid fa-wind"></i>  Climatisation</button>
+          <button class="chip" data-val="parking"><i class="fa-solid fa-car"></i>  Parking</button>
+          <button class="chip" data-val="petit-dejeuner"><i class="fa-solid fa-mug-saucer"></i>   Petit déj</button>
+          <button class="chip" data-val="spa"><i class="fa-solid fa-spa"></i>  Spa</button>
+          <button class="chip" data-val="Room service"><i class="fa-solid fa-concierge-bell"></i>     Room Service</button>
+         <button class="btn-reset" id="btn-reset"><i class="fa-solid fa-rotate-left"></i> Réinitialiser</button>
+      </div>
+  </div>
+  </div>
+
+  <section class="listing-results">
+    <div class="results-info"><span id="results-count"></span></div>
+    <div class="listing-grid" id="listing-grid"></div>
+    <div class="no-results" id="no-results" style="display:none;">Aucun hébergement trouvé.</div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <img src="images/MLOGO.png" alt="DiscoverMaroc" style="height: 50px; margin-bottom: 8px;">
+        <div class="footer-tagline">Découvrez le Maroc authentique</div>
+      </div>
+      <div class="footer-links">
+        <a href="explore.html">Explorer</a>
+      </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">© 2026 DiscoverMaroc — Tous droits réservés</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/listing.js"></script>
+</body>
+</html>

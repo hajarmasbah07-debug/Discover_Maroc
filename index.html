@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="DiscoverMaroc — Découvrez les meilleurs hébergements, restaurants et activités au Maroc. Avis authentiques de voyageurs.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Jost:wght@300;400;500&family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/home.css">
+  <title>DiscoverMaroc — Explorez le Maroc</title>
+</head>
+<body>
+
+  <!-- NAVBAR (LIENS) -->
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="explore.html">Explorer</a>
+      <a href="hotels.html">Hébergements</a>
+      <a href="restaurants.html">Restaurants</a>
+      <a href="activites.html">Activités</a>
+      <a href="favorites.html">Favoris</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+
+    <!-- LOGO DANS LE HERO -->
+    <div class="logo-container">
+      <a href="index.html" class="logo"><img src="images/MLOGO.png" alt="DiscoverMaroc"></a>
+    </div>
+
+    <div class="hero-content">
+      <h1>Explorez le <span>Maroc</span><br>comme jamais avant</h1>
+      <p>Trouvez les meilleurs hébergements, restaurants et activités notés par les voyageurs.</p>
+      <div class="search-bar">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="hero-search" placeholder="Rechercher une ville ou un lieu...">
+        <button id="hero-search-btn">Rechercher</button>
+      </div>
+    </div>
+
+  </section>
+  <section class="home-section" id="section-why">
+    <h2 class="section-title">Pourquoi le Maroc ?</h2>
+    <p class="section-subtitle">
+      Aux portes de l'Afrique et baigné par deux mers, le Maroc est un royaume aux mille visages — où chaque ville révèle un climat qui lui est propre : des brumes fraîches de Tanger aux chaleurs arides d'Ouarzazate, des hivers neigeux d'Ifrane aux étés côtiers d'Agadir. Cette diversité climatique exceptionnelle s'accompagne d'une richesse humaine tout aussi remarquable : Berbères, Arabes, Sahraouis, Andalous — des peuples aux traditions, langues et artisanats distincts qui tissent ensemble l'identité unique et profonde du Royaume.
+    </p>
+  </section>
+
+  <!-- VILLES RECOMMANDÉES -->
+  <section class="home-section" id="section-cities">
+    <h2 class="section-title">Villes populaires</h2>
+    <p class="section-subtitle">Découvrez les perles du Maroc</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="cities-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="city-grid"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="cities-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="cities-dots"></div>
+  </section>
+
+  <!-- ACTIVITÉS POPULAIRES -->
+  <section class="home-section" id="section-activities">
+    <h2 class="section-title">Activités populaires</h2>
+    <p class="section-subtitle">Les expériences les plus prisées par les voyageurs</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="activities-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="activities-carousel"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="activities-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="activities-dots"></div>
+  </section>
+
+  <!-- HÉBERGEMENTS POPULAIRES -->
+  <section class="home-section" id="section-hotels">
+    <h2 class="section-title">Hébergements populaires</h2>
+    <p class="section-subtitle">Riads, hôtels et resorts emblématiques</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="hotels-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="hotels-carousel"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="hotels-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="hotels-dots"></div>
+  </section>
+
+  <!-- RESTAURANTS POPULAIRES -->
+  <section class="home-section" id="section-restaurants">
+    <h2 class="section-title">Restaurants populaires</h2>
+    <p class="section-subtitle">Découvrez les meilleures tables du Maroc</p>
+    <div class="carousel-container">
+      <button class="carousel-btn carousel-prev" id="restaurants-prev" aria-label="Précédent">❮</button>
+      <div class="carousel-wrapper">
+        <div class="carousel" id="restaurants-carousel"></div>
+      </div>
+      <button class="carousel-btn carousel-next" id="restaurants-next" aria-label="Suivant">❯</button>
+    </div>
+    <div class="carousel-dots" id="restaurants-dots"></div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <img src="images/MLOGO.png" alt="DiscoverMaroc" style="height: 50px; margin-bottom: 8px;">
+        <div class="footer-tagline">Découvrez le Maroc authentique</div>
+      </div>
+      <div class="footer-links">
+        <a href="explore.html">Explorer</a>
+        <a href="hotels.html">Hébergements</a>
+        <a href="restaurants.html">Restaurants</a>
+        <a href="activites.html">Activités</a>
+        <a href="favorites.html">Favoris</a>
+      </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">© 2026 DiscoverMaroc — Tous droits réservés</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Les meilleurs restaurants du Maroc — cuisine marocaine, avis et recommandations.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/listing.css">
+  <title>Restaurants — DiscoverMaroc</title>
+</head>
+<body data-category="restaurant">
+
+  <!-- LOGO FIXE -->
+  <div class="logo-container">
+    <a href="index.html" class="logo"><img src="images/MLOGO.png" alt="DiscoverMaroc"></a>
+  </div>
+
+  <!-- NAVBAR (LIENS) -->
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="explore.html">Explorer</a>
+      <a href="hotels.html">Hébergements</a>
+      <a href="restaurants.html" class="active">Restaurants</a>
+      <a href="activites.html">Activités</a>
+      <a href="favorites.html" >Favoris</a>
+    </div>
+  </nav>
+
+  <section class="listing-header">
+    <h1>Restaurants</h1>
+    <p>Savourez la richesse de la cuisine marocaine</p>
+  </section>
+
+  <!-- FILTRES RESTAURANTS -->
+  <div class="filters-panel">
+    <div class="filters-row">
+      <div class="filter-group filter-search">
+        <label> Recherche</label>
+        <input type="text" id="search-input" placeholder="Nom du restaurant...">
+      </div>
+      <div class="filter-group">
+        <label> Cuisine</label>
+        <select id="filter-cuisine">
+          <option value="">Toutes</option>
+          <option value="marocaine">Marocaine</option>
+          <option value="internationale">Internationale</option>
+          <option value="cafe">Café</option>
+          <option value="grillades">Grillades</option>
+          <option value="fruits de mer">Fruits de mer</option>
+          <option value="fast food">Fast food</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>Prix min (MAD)</label>
+        <input type="number" id="filter-price-min" placeholder="0" min="0">
+      </div>
+      <div class="filter-group">
+        <label>Prix max (MAD)</label>
+        <input type="number" id="filter-price-max" placeholder="5000" min="0">
+      </div>
+      <div class="filter-group">
+        <label>Étoiles</label>
+        <select id="filter-stars">
+          <option value="0">Toutes</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div class="filter-group">
+      <button class="btn-reset" id="btn-reset"><i class="fa-solid fa-rotate-left"></i> Réinitialiser</button>
+    </div>
+    </div>
+  </div>
+
+  <section class="listing-results">
+    <div class="results-info"><span id="results-count"></span></div>
+    <div class="listing-grid" id="listing-grid"></div>
+    <div class="no-results" id="no-results" style="display:none;">Aucun restaurant trouvé.</div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-top">
+      <div>
+        <img src="images/MLOGO.png" alt="DiscoverMaroc" style="height: 50px; margin-bottom: 8px;">
+        <div class="footer-tagline">Découvrez le Maroc authentique</div>
+      </div>
+      <div class="footer-links">
+        <a href="explore.html">Explorer</a>
+      </div>
+    </div>
+    <hr>
+    <div class="footer-bottom">© 2026 DiscoverMaroc — Tous droits réservés</div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/listing.js"></script>
+</body>
+</html>
