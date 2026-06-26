@@ -19,3 +19,9 @@ The UI draws inspiration from high-end travel magazines. The typography pairing 
 The entire project runs in the browser with no backend, no framework, and no build tools. Data is served from static JSON files, and all interactivity — carousels, filters, search, reviews — is handled with vanilla JavaScript. This was a deliberate choice to focus on mastering the fundamentals of web development.
 
 ---
+## Démo en ligne
+<img width="1272" height="580" alt="image" src="https://github.com/user-attachments/assets/88eda152-1eff-4c29-aa6b-bf8e29a5afa3" />
+
+https://hajarmasbah07-debug.github.io/Discover_Maroc/
+
+
